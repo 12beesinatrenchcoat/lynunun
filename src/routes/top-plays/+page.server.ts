@@ -1,7 +1,14 @@
 import type { PageServerLoad } from "./$types";
 import type { LyneAPI } from "$lib/types/api";
+import { dev } from "$app/environment";
 
 export const load: PageServerLoad = async () => {
+	// Be nice to ZZZ's servers, use testing
+	if (dev) {
+		const topPlays = await import("$lib/testing/topPlays.json", { with: { type: "json" } });
+		return { topPlays: topPlays.default, date: new Date() };
+	}
+
 	const players: string[] = [];
 	let plays: LyneAPI.Play[] = [];
 

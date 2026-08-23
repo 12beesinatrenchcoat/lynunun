@@ -1,5 +1,38 @@
 [
 	{
+		"id": 6969,
+		"mapId": 89,
+		"user": "Lyn",
+		"map": {
+			"id": 89,
+			"title": "DEVMODE TESTING DATA",
+			"artist": "DEVMODE TESTING DATA",
+			"difficultyName": "DEVMODE",
+			"starRating": 123.12,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/89/thumbnail?v=25"
+		},
+		"score": 9871135,
+		"accuracy": 0.9875082182774491,
+		"maxCombo": 1349,
+		"tierCounts": {
+			"perfect": 995,
+			"great": 19,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR6.70"
+		],
+		"grade": "S",
+		"pp": 9999.999,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-16T20:12:55.297832Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 5319,
 		"mapId": 89,
 		"user": "Panzer",
@@ -15,8 +48,15 @@
 		"score": 9871135,
 		"accuracy": 0.9875082182774491,
 		"maxCombo": 1349,
-		"tierCounts": { "perfect": 995, "great": 19, "good": 0, "miss": 0 },
-		"mods": ["VR1.35"],
+		"tierCounts": {
+			"perfect": 995,
+			"great": 19,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.35"
+		],
 		"grade": "S",
 		"pp": 336.8748188414112,
 		"grantsPp": true,
@@ -41,7 +81,12 @@
 		"score": 9857260,
 		"accuracy": 0.9856377799415774,
 		"maxCombo": 2679,
-		"tierCounts": { "perfect": 2010, "great": 43, "good": 1, "miss": 0 },
+		"tierCounts": {
+			"perfect": 2010,
+			"great": 43,
+			"good": 1,
+			"miss": 0
+		},
 		"mods": [],
 		"grade": "S",
 		"pp": 332.06647004945205,
@@ -67,7 +112,12 @@
 		"score": 9758636,
 		"accuracy": 0.9754098360655737,
 		"maxCombo": 1206,
-		"tierCounts": { "perfect": 823, "great": 29, "good": 2, "miss": 0 },
+		"tierCounts": {
+			"perfect": 823,
+			"great": 29,
+			"good": 2,
+			"miss": 0
+		},
 		"mods": [],
 		"grade": "S",
 		"pp": 321.875338974407,
@@ -93,8 +143,15 @@
 		"score": 9863371,
 		"accuracy": 0.9868507560815253,
 		"maxCombo": 1350,
-		"tierCounts": { "perfect": 994, "great": 20, "good": 0, "miss": 0 },
-		"mods": ["VR1.3"],
+		"tierCounts": {
+			"perfect": 994,
+			"great": 20,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.3"
+		],
 		"grade": "S",
 		"pp": 310.45851831115965,
 		"grantsPp": true,
@@ -119,7 +176,12 @@
 		"score": 9675342,
 		"accuracy": 0.967408274785324,
 		"maxCombo": 1211,
-		"tierCounts": { "perfect": 813, "great": 38, "good": 3, "miss": 0 },
+		"tierCounts": {
+			"perfect": 813,
+			"great": 38,
+			"good": 3,
+			"miss": 0
+		},
 		"mods": [],
 		"grade": "S",
 		"pp": 296.24708045095866,
@@ -145,8 +207,15 @@
 		"score": 9908307,
 		"accuracy": 0.9921104536489151,
 		"maxCombo": 1336,
-		"tierCounts": { "perfect": 1002, "great": 12, "good": 0, "miss": 0 },
-		"mods": ["VR1.2"],
+		"tierCounts": {
+			"perfect": 1002,
+			"great": 12,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.2"
+		],
 		"grade": "S",
 		"pp": 274.3792615991443,
 		"grantsPp": true,
@@ -171,8 +240,16 @@
 		"score": 9845595,
 		"accuracy": 0.985207100591716,
 		"maxCombo": 1342,
-		"tierCounts": { "perfect": 992, "great": 20, "good": 2, "miss": 0 },
-		"mods": ["MR", "VR1.2"],
+		"tierCounts": {
+			"perfect": 992,
+			"great": 20,
+			"good": 2,
+			"miss": 0
+		},
+		"mods": [
+			"MR",
+			"VR1.2"
+		],
 		"grade": "S",
 		"pp": 263.4674923693659,
 		"grantsPp": true,
@@ -197,8 +274,15 @@
 		"score": 9825756,
 		"accuracy": 0.9879826635145784,
 		"maxCombo": 1436,
-		"tierCounts": { "perfect": 1662, "great": 29, "good": 0, "miss": 1 },
-		"mods": ["VR1.05"],
+		"tierCounts": {
+			"perfect": 1662,
+			"great": 29,
+			"good": 0,
+			"miss": 1
+		},
+		"mods": [
+			"VR1.05"
+		],
 		"grade": "A",
 		"pp": 249.0982938930585,
 		"grantsPp": true,
@@ -223,8 +307,16 @@
 		"score": 8762433,
 		"accuracy": 0.9867424242424242,
 		"maxCombo": 147,
-		"tierCounts": { "perfect": 173, "great": 2, "good": 0, "miss": 1 },
-		"mods": ["HD", "VR1.25"],
+		"tierCounts": {
+			"perfect": 173,
+			"great": 2,
+			"good": 0,
+			"miss": 1
+		},
+		"mods": [
+			"HD",
+			"VR1.25"
+		],
 		"grade": "A",
 		"pp": 243.704269103422,
 		"grantsPp": true,
@@ -249,8 +341,16 @@
 		"score": 9905036,
 		"accuracy": 0.993993993993994,
 		"maxCombo": 153,
-		"tierCounts": { "perfect": 110, "great": 1, "good": 0, "miss": 0 },
-		"mods": ["DT", "HD"],
+		"tierCounts": {
+			"perfect": 110,
+			"great": 1,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"DT",
+			"HD"
+		],
 		"grade": "S",
 		"pp": 236.1965284808062,
 		"grantsPp": true,
@@ -275,8 +375,15 @@
 		"score": 9843646,
 		"accuracy": 0.9874213836477987,
 		"maxCombo": 200,
-		"tierCounts": { "perfect": 156, "great": 3, "good": 0, "miss": 0 },
-		"mods": ["VR1.2"],
+		"tierCounts": {
+			"perfect": 156,
+			"great": 3,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.2"
+		],
 		"grade": "S",
 		"pp": 231.13283512407693,
 		"grantsPp": true,
@@ -301,8 +408,16 @@
 		"score": 9490051,
 		"accuracy": 0.9491236611489776,
 		"maxCombo": 2674,
-		"tierCounts": { "perfect": 1898, "great": 153, "good": 3, "miss": 0 },
-		"mods": ["EZ", "VR1.2"],
+		"tierCounts": {
+			"perfect": 1898,
+			"great": 153,
+			"good": 3,
+			"miss": 0
+		},
+		"mods": [
+			"EZ",
+			"VR1.2"
+		],
 		"grade": "A",
 		"pp": 230.84748919110294,
 		"grantsPp": true,
@@ -327,8 +442,15 @@
 		"score": 9891759,
 		"accuracy": 0.991869918699187,
 		"maxCombo": 412,
-		"tierCounts": { "perfect": 243, "great": 3, "good": 0, "miss": 0 },
-		"mods": ["VR1.35"],
+		"tierCounts": {
+			"perfect": 243,
+			"great": 3,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.35"
+		],
 		"grade": "S",
 		"pp": 226.92531751751812,
 		"grantsPp": true,
@@ -353,8 +475,15 @@
 		"score": 9914765,
 		"accuracy": 0.9920480363518338,
 		"maxCombo": 2645,
-		"tierCounts": { "perfect": 2030, "great": 22, "good": 2, "miss": 0 },
-		"mods": ["EZ"],
+		"tierCounts": {
+			"perfect": 2030,
+			"great": 22,
+			"good": 2,
+			"miss": 0
+		},
+		"mods": [
+			"EZ"
+		],
 		"grade": "S",
 		"pp": 225.3432853314429,
 		"grantsPp": true,
@@ -379,7 +508,12 @@
 		"score": 9862350,
 		"accuracy": 0.9971139971139971,
 		"maxCombo": 981,
-		"tierCounts": { "perfect": 690, "great": 3, "good": 0, "miss": 0 },
+		"tierCounts": {
+			"perfect": 690,
+			"great": 3,
+			"good": 0,
+			"miss": 0
+		},
 		"mods": [],
 		"grade": "S",
 		"pp": 221.6858066029989,
@@ -405,8 +539,15 @@
 		"score": 9870902,
 		"accuracy": 0.9878369493754109,
 		"maxCombo": 1344,
-		"tierCounts": { "perfect": 996, "great": 16, "good": 2, "miss": 0 },
-		"mods": ["VR1.1"],
+		"tierCounts": {
+			"perfect": 996,
+			"great": 16,
+			"good": 2,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.1"
+		],
 		"grade": "S",
 		"pp": 219.6646869762495,
 		"grantsPp": true,
@@ -431,8 +572,16 @@
 		"score": 9708842,
 		"accuracy": 0.982148653034729,
 		"maxCombo": 2224,
-		"tierCounts": { "perfect": 2000, "great": 51, "good": 2, "miss": 1 },
-		"mods": ["EZ", "VR1.05"],
+		"tierCounts": {
+			"perfect": 2000,
+			"great": 51,
+			"good": 2,
+			"miss": 1
+		},
+		"mods": [
+			"EZ",
+			"VR1.05"
+		],
 		"grade": "A",
 		"pp": 215.56255465361852,
 		"grantsPp": true,
@@ -457,8 +606,15 @@
 		"score": 9937431,
 		"accuracy": 1,
 		"maxCombo": 151,
-		"tierCounts": { "perfect": 111, "great": 0, "good": 0, "miss": 0 },
-		"mods": ["DT"],
+		"tierCounts": {
+			"perfect": 111,
+			"great": 0,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"DT"
+		],
 		"grade": "SS",
 		"pp": 209.2453817122979,
 		"grantsPp": true,
@@ -483,8 +639,15 @@
 		"score": 9923413,
 		"accuracy": 0.995174077904171,
 		"maxCombo": 1185,
-		"tierCounts": { "perfect": 960, "great": 7, "good": 0, "miss": 0 },
-		"mods": ["VR0.7"],
+		"tierCounts": {
+			"perfect": 960,
+			"great": 7,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR0.7"
+		],
 		"grade": "S",
 		"pp": 208.04881291640356,
 		"grantsPp": true,
@@ -509,8 +672,15 @@
 		"score": 9889931,
 		"accuracy": 0.993993993993994,
 		"maxCombo": 153,
-		"tierCounts": { "perfect": 110, "great": 1, "good": 0, "miss": 0 },
-		"mods": ["VR1.5"],
+		"tierCounts": {
+			"perfect": 110,
+			"great": 1,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.5"
+		],
 		"grade": "S",
 		"pp": 206.2851777124945,
 		"grantsPp": true,
@@ -535,8 +705,16 @@
 		"score": 9800084,
 		"accuracy": 0.9801024428684003,
 		"maxCombo": 2583,
-		"tierCounts": { "perfect": 1643, "great": 43, "good": 6, "miss": 0 },
-		"mods": ["EZ", "VR1.05"],
+		"tierCounts": {
+			"perfect": 1643,
+			"great": 43,
+			"good": 6,
+			"miss": 0
+		},
+		"mods": [
+			"EZ",
+			"VR1.05"
+		],
 		"grade": "S",
 		"pp": 201.30355649629973,
 		"grantsPp": true,
@@ -561,8 +739,15 @@
 		"score": 9755951,
 		"accuracy": 0.9893092105263158,
 		"maxCombo": 1550,
-		"tierCounts": { "perfect": 1198, "great": 13, "good": 4, "miss": 1 },
-		"mods": ["VR1.1"],
+		"tierCounts": {
+			"perfect": 1198,
+			"great": 13,
+			"good": 4,
+			"miss": 1
+		},
+		"mods": [
+			"VR1.1"
+		],
 		"grade": "A",
 		"pp": 199.92691700614455,
 		"grantsPp": true,
@@ -587,8 +772,15 @@
 		"score": 9989560,
 		"accuracy": 1,
 		"maxCombo": 218,
-		"tierCounts": { "perfect": 176, "great": 0, "good": 0, "miss": 0 },
-		"mods": ["VR1"],
+		"tierCounts": {
+			"perfect": 176,
+			"great": 0,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1"
+		],
 		"grade": "SS",
 		"pp": 198.05968935649912,
 		"grantsPp": true,
@@ -613,8 +805,16 @@
 		"score": 9890656,
 		"accuracy": 0.989451476793249,
 		"maxCombo": 2658,
-		"tierCounts": { "perfect": 2023, "great": 25, "good": 6, "miss": 0 },
-		"mods": ["EZ", "VR0.95"],
+		"tierCounts": {
+			"perfect": 2023,
+			"great": 25,
+			"good": 6,
+			"miss": 0
+		},
+		"mods": [
+			"EZ",
+			"VR0.95"
+		],
 		"grade": "S",
 		"pp": 189.5489781322509,
 		"grantsPp": true,
@@ -639,8 +839,15 @@
 		"score": 9885840,
 		"accuracy": 0.9887706855791962,
 		"maxCombo": 2584,
-		"tierCounts": { "perfect": 1664, "great": 26, "good": 2, "miss": 0 },
-		"mods": ["EZ"],
+		"tierCounts": {
+			"perfect": 1664,
+			"great": 26,
+			"good": 2,
+			"miss": 0
+		},
+		"mods": [
+			"EZ"
+		],
 		"grade": "S",
 		"pp": 185.26812833231702,
 		"grantsPp": true,

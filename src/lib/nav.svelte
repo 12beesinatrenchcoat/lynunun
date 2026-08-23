@@ -10,25 +10,34 @@
 	];
 </script>
 
-<nav>
-	<a href={resolve("/")} id="root-link">
-		<!-- eslint-disable-next-line svelte/no-at-html-tags -->
-		{@html Lynunnun}
-	</a>
-	{#each navItems as navItem, i (i)}
-		<Navlink href={navItem[0]} title={navItem[1]} />
-	{/each}
-	<span class="dim">more things wip…</span>
-</nav>
+<div>
+	<nav>
+		<a href={resolve("/")} id="root-link">
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+			{@html Lynunnun}
+		</a>
+		{#each navItems as navItem, i (i)}
+			<Navlink href={navItem[0]} title={navItem[1]} />
+		{/each}
+		<span class="dim">more things wip…</span>
+	</nav>
+</div>
 
 <style>
+	div {
+		margin: 0 -2rem;
+		border-bottom: 1px solid var(--fg-dim);
+	}
+
 	nav {
 		display: flex;
 		align-items: center;
 		gap: 2ch;
-		margin: 0 -2em 1em;
+
 		padding: 0 1em 1em;
-		border-bottom: 1px solid var(--fg-dim);
+
+		margin: auto;
+		max-width: 1440px;
 
 		font-family: "IBM Plex Mono", monospace;
 		text-transform: uppercase;

@@ -12,6 +12,15 @@
 	<span class="accent">your'e × mom</span>
 </p>
 
+<div class="quote">
+	<blockquote
+		cite="https://discord.com/channels/1535190794082975784/1535190794573578252/1541183985219010600"
+	>
+		<p>“yeah im chudtapping my supernova”</p>
+	</blockquote>
+	<p>-zxz, 2026</p>
+</div>
+
 <p>
 	Hi there! This is a collection of random things for <GameName />. <br />
 	If you have no idea what that is, you can check it out <a href="https://syne.zxz.moe">here</a> (although

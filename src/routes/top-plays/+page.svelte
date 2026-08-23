@@ -67,8 +67,8 @@
 <p>
 	I am only able to fetch the top 10 scores of each user through the API. If a player somehow has
 	more than 10 top plays that deserve to be featured here, only the top 10 will be counted.<br />
-	This is automatically updated every day at around 00:00 UTC. Historical data is not currently shown,
-	but is planned.
+	This is automatically updated every day at approximately 00:00 UTC and 12:00 UTC.<br />
+	Historical data is not shown, but is planned for the future. Eventually.
 </p>
 
 <style>
@@ -96,6 +96,30 @@
 
 	tr {
 		border-bottom: 1px solid var(--fg-dim);
+	}
+
+	tbody > :nth-child(1) {
+		background: var(--gold-gradient);
+
+		td:first-child {
+			color: var(--gold);
+		}
+	}
+
+	tbody > :nth-child(2) {
+		background: var(--silver-gradient);
+
+		td:first-child {
+			color: var(--silver);
+		}
+	}
+
+	tbody > :nth-child(3) {
+		background: var(--bronze-gradient);
+
+		td:first-child {
+			color: var(--bronze);
+		}
 	}
 
 	.artist-name {

@@ -13,6 +13,11 @@
 		text-decoration: none;
 		font-weight: 500;
 		color: var(--fg-mid);
+		transition: color 100ms;
+	}
+
+	a:hover {
+		color: var(--fg-pri);
 	}
 
 	.active {

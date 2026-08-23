@@ -4,10 +4,18 @@
 	--blue: #34e8ff;
 	--green: #5cff8f;
 	--yellow: #ffc34d;
+	--orange: #ff9f43;
 	--red: #ff3c5c;
 	--purple: #c45cff;
 	--white: #fff;
 	--black: #10182e;
+
+	--gold: var(--yellow);
+	--gold-gradient: linear-gradient(#0000 5%, #ffc34d44);
+	--silver: #9eacd4;
+	--silver-gradient: linear-gradient(#0000 15%, #9eacd438);
+	--bronze: var(--orange);
+	--bronze-gradient: linear-gradient(#0000 25%, #ff9f432c);
 
 	--bg-a: #0d0406;
 	--bg-b: #39081b;
@@ -40,13 +48,17 @@ body {
 	font-family: "Saira", sans-serif;
 	min-height: 99vh;
 
-	max-width: 1320px;
 	margin: 1em 2em 0;
 }
 
 main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	min-height: 10em;
 	flex-grow: 1;
+	max-width: 1320px;
+	margin: auto;
 }
 
 main > * + * {
@@ -101,4 +113,28 @@ h2 {
 
 .dim {
 	color: var(--fg-dim);
+}
+
+.quote {
+	display: block;
+	border-left: 2px solid var(--fg-mid);
+	padding: 0.5rem;
+
+	* {
+		margin-left: 1em;
+	}
+
+	blockquote {
+		font-style: italic;
+		margin: 0;
+	}
+
+	& > p {
+		font-size: var(--text-sm);
+		color: var(--fg-mid);
+	}
+
+	p {
+		margin: 0 0.5rem;
+	}
 }

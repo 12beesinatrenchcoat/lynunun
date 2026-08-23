@@ -31,6 +31,11 @@
 		overflow: hidden;
 	}
 
+	footer > div {
+		margin: auto;
+		max-width: 1440px;
+	}
+
 	.footer-watermark {
 		color: transparent;
 		letter-spacing: 0.1ch;
@@ -42,9 +47,9 @@
 		opacity: 0.6;
 
 		position: absolute;
-
 		right: 0.3ch;
-		bottom: -2rem;
+		bottom: -2.25rem;
+		width: max-content;
 
 		user-select: none;
 	}
