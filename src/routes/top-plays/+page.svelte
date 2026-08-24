@@ -67,7 +67,7 @@
 <p>
 	I am only able to fetch the top 10 scores of each user through the API. If a player somehow has
 	more than 10 top plays that deserve to be featured here, only the top 10 will be counted.<br />
-	This is automatically updated every day at approximately 00:00 UTC and 12:00 UTC.<br />
+	This is automatically updated every day at approximately 00:05 UTC and 12:05 UTC.<br />
 	Historical data is not shown, but is planned for the future. Eventually.
 </p>
 
