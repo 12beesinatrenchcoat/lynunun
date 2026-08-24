@@ -47,7 +47,7 @@ export const load: PageServerLoad = async () => {
 		const { topScores } = user;
 
 		for (const score of topScores) {
-			if (score.pp > lowest) {
+			if (score.pp > lowest || plays.length < 25) {
 				score.user = player;
 				plays.push(score);
 			} else {
