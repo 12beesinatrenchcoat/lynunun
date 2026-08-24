@@ -13,7 +13,7 @@
 	<br />
 
 	<span>
-		<a class="button-link" href="https://youtu.be/dQw4w9WgXcQ">RICKROLL</a>
+		<a class="button-link" href="https://youtu.be/dQw4w9WgXcQ">GET RICKROLLED</a>
 		<a class="button-link" href={resolve("/")}>GO HOME</a>
 	</span>
 </div>
@@ -36,6 +36,7 @@
 	#error-box {
 		border: 1px solid var(--fg-dim);
 		padding: 1em;
+		margin-top: -2em;
 		width: 28ch;
 		text-align: center;
 		transform: rotate(5deg);
