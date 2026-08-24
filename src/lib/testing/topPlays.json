@@ -1,34 +1,102 @@
 [
 	{
-		"id": 6969,
-		"mapId": 89,
-		"user": "Lyn",
+		"id": 9620,
+		"mapId": 179,
+		"user": "Panzer",
 		"map": {
-			"id": 89,
-			"title": "DEVMODE TESTING DATA",
-			"artist": "DEVMODE TESTING DATA",
-			"difficultyName": "DEVMODE",
-			"starRating": 123.12,
+			"id": 179,
+			"title": "UNION!!",
+			"artist": "765 Million Allstars",
+			"difficultyName": "Our Unending Journey",
+			"starRating": 5.754056687909623,
 			"status": "ranked",
-			"thumbnailUrl": "/maps/89/thumbnail?v=25"
+			"thumbnailUrl": "/maps/179/thumbnail?v=16"
 		},
-		"score": 9871135,
-		"accuracy": 0.9875082182774491,
-		"maxCombo": 1349,
+		"score": 9921378,
+		"accuracy": 0.9922214596202242,
+		"maxCombo": 1990,
 		"tierCounts": {
-			"perfect": 995,
-			"great": 19,
+			"perfect": 1440,
+			"great": 17,
 			"good": 0,
 			"miss": 0
 		},
 		"mods": [
-			"VR6.70"
+			"VR1.2"
 		],
 		"grade": "S",
-		"pp": 9999.999,
+		"pp": 451.49603235889134,
 		"grantsPp": true,
 		"hasReplay": true,
-		"submittedAt": "2026-08-16T20:12:55.297832Z",
+		"submittedAt": "2026-08-23T14:01:32.270288Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 10110,
+		"mapId": 137,
+		"user": "Panzer",
+		"map": {
+			"id": 137,
+			"title": "Flower",
+			"artist": "THE ORAL CIGARETTES",
+			"difficultyName": "Petal",
+			"starRating": 5.674097478523608,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/137/thumbnail?v=19"
+		},
+		"score": 9643151,
+		"accuracy": 0.9772795216741406,
+		"maxCombo": 1110,
+		"tierCounts": {
+			"perfect": 1078,
+			"great": 33,
+			"good": 4,
+			"miss": 0
+		},
+		"mods": [
+			"HD",
+			"VR1.05"
+		],
+		"grade": "S",
+		"pp": 369.35936825738014,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T01:54:34.845566Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9967,
+		"mapId": 205,
+		"user": "Panzer",
+		"map": {
+			"id": 205,
+			"title": "パスコード4854 (TV Size)",
+			"artist": "安田レイ",
+			"difficultyName": "Memory",
+			"starRating": 4.651794189103137,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/205/thumbnail?v=4"
+		},
+		"score": 9839696,
+		"accuracy": 0.9861111111111112,
+		"maxCombo": 372,
+		"tierCounts": {
+			"perfect": 235,
+			"great": 5,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"HR",
+			"VR1.5"
+		],
+		"grade": "S",
+		"pp": 342.7292110717288,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T23:42:07.90683Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -66,6 +134,37 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 10007,
+		"mapId": 137,
+		"user": "River",
+		"map": {
+			"id": 137,
+			"title": "Flower",
+			"artist": "THE ORAL CIGARETTES",
+			"difficultyName": "Petal",
+			"starRating": 5.674097478523608,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/137/thumbnail?v=19"
+		},
+		"score": 9967310,
+		"accuracy": 0.997606223818073,
+		"maxCombo": 1587,
+		"tierCounts": {
+			"perfect": 1110,
+			"great": 4,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [],
+		"grade": "S",
+		"pp": 335.2278171658606,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T00:25:16.257292Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 2018,
 		"mapId": 24,
 		"user": "Panzer",
@@ -93,6 +192,40 @@
 		"grantsPp": true,
 		"hasReplay": true,
 		"submittedAt": "2026-08-12T00:50:42.910437Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 10185,
+		"mapId": 186,
+		"user": "Arty",
+		"map": {
+			"id": 186,
+			"title": "Melty Lover",
+			"artist": "seatrus",
+			"difficultyName": "Diamond",
+			"starRating": 10.48729715105765,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/186/thumbnail?v=9"
+		},
+		"score": 9648273,
+		"accuracy": 0.9836917562724015,
+		"maxCombo": 1042,
+		"tierCounts": {
+			"perfect": 909,
+			"great": 16,
+			"good": 3,
+			"miss": 2
+		},
+		"mods": [
+			"EZ",
+			"VR0.85"
+		],
+		"grade": "A",
+		"pp": 324.8541088957059,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T05:45:38.632277Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -161,6 +294,104 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 10067,
+		"mapId": 179,
+		"user": "River",
+		"map": {
+			"id": 179,
+			"title": "UNION!!",
+			"artist": "765 Million Allstars",
+			"difficultyName": "Our Unending Journey",
+			"starRating": 5.754056687909623,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/179/thumbnail?v=16"
+		},
+		"score": 9915379,
+		"accuracy": 0.9949668268130862,
+		"maxCombo": 1964,
+		"tierCounts": {
+			"perfect": 1446,
+			"great": 11,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [],
+		"grade": "S",
+		"pp": 309.7861581457193,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T01:03:25.013999Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9777,
+		"mapId": 209,
+		"user": "Panzer",
+		"map": {
+			"id": 209,
+			"title": "Balalaika (TV Size)",
+			"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+			"difficultyName": "Insane",
+			"starRating": 4.859315769891544,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/209/thumbnail?v=9"
+		},
+		"score": 9869323,
+		"accuracy": 0.9878048780487805,
+		"maxCombo": 413,
+		"tierCounts": {
+			"perfect": 322,
+			"great": 6,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"HD",
+			"VR1.65"
+		],
+		"grade": "S",
+		"pp": 301.9637080246061,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T16:53:11.356546Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 10014,
+		"mapId": 89,
+		"user": "River",
+		"map": {
+			"id": 89,
+			"title": "Hana wa Odore ya Irohaniho",
+			"artist": "Team \"Hanayamata\"",
+			"difficultyName": "Cherry Blossom",
+			"starRating": 4.797931452271712,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/89/thumbnail?v=25"
+		},
+		"score": 9720166,
+		"accuracy": 0.9723865877712031,
+		"maxCombo": 1341,
+		"tierCounts": {
+			"perfect": 973,
+			"great": 37,
+			"good": 4,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.35"
+		],
+		"grade": "S",
+		"pp": 297.24891627575306,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T00:33:57.523531Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 7694,
 		"mapId": 141,
 		"user": "Panzer",
@@ -192,35 +423,135 @@
 		"multiplayerMatchId": null
 	},
 	{
-		"id": 5378,
-		"mapId": 89,
-		"user": "River",
+		"id": 9986,
+		"mapId": 207,
+		"user": "Panzer",
 		"map": {
-			"id": 89,
-			"title": "Hana wa Odore ya Irohaniho",
-			"artist": "Team \"Hanayamata\"",
-			"difficultyName": "Cherry Blossom",
-			"starRating": 4.797931452271712,
+			"id": 207,
+			"title": "パスコード4854 (TV Size)",
+			"artist": "安田レイ",
+			"difficultyName": "Insane",
+			"starRating": 3.4477051933951506,
 			"status": "ranked",
-			"thumbnailUrl": "/maps/89/thumbnail?v=25"
+			"thumbnailUrl": "/maps/207/thumbnail?v=6"
 		},
-		"score": 9908307,
-		"accuracy": 0.9921104536489151,
-		"maxCombo": 1336,
+		"score": 9954640,
+		"accuracy": 0.9970631424375918,
+		"maxCombo": 369,
 		"tierCounts": {
-			"perfect": 1002,
-			"great": 12,
+			"perfect": 226,
+			"great": 1,
 			"good": 0,
 			"miss": 0
 		},
 		"mods": [
-			"VR1.2"
+			"HR",
+			"HD",
+			"VR1.6"
 		],
 		"grade": "S",
-		"pp": 274.3792615991443,
+		"pp": 295.8391036749817,
 		"grantsPp": true,
 		"hasReplay": true,
-		"submittedAt": "2026-08-16T21:44:45.684578Z",
+		"submittedAt": "2026-08-24T00:00:12.92402Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9420,
+		"mapId": 186,
+		"user": "Panzer",
+		"map": {
+			"id": 186,
+			"title": "Melty Lover",
+			"artist": "seatrus",
+			"difficultyName": "Diamond",
+			"starRating": 10.48729715105765,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/186/thumbnail?v=9"
+		},
+		"score": 9713605,
+		"accuracy": 0.9720430107526882,
+		"maxCombo": 1106,
+		"tierCounts": {
+			"perfect": 891,
+			"great": 39,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR0.6"
+		],
+		"grade": "S",
+		"pp": 287.3274596876155,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T05:57:10.436643Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9901,
+		"mapId": 208,
+		"user": "Panzer",
+		"map": {
+			"id": 208,
+			"title": "Balalaika (TV Size)",
+			"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+			"difficultyName": "Final Stage",
+			"starRating": 4.887637996419713,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/208/thumbnail?v=14"
+		},
+		"score": 9781596,
+		"accuracy": 0.9784449576597383,
+		"maxCombo": 500,
+		"tierCounts": {
+			"perfect": 419,
+			"great": 14,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"HD",
+			"VR1.45"
+		],
+		"grade": "S",
+		"pp": 283.3143580352656,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T21:40:08.999507Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9825,
+		"mapId": 179,
+		"user": "Reaperlight",
+		"map": {
+			"id": 179,
+			"title": "UNION!!",
+			"artist": "765 Million Allstars",
+			"difficultyName": "Our Unending Journey",
+			"starRating": 5.754056687909623,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/179/thumbnail?v=16"
+		},
+		"score": 9730013,
+		"accuracy": 0.9875314573324182,
+		"maxCombo": 1662,
+		"tierCounts": {
+			"perfect": 1431,
+			"great": 22,
+			"good": 3,
+			"miss": 1
+		},
+		"mods": [],
+		"grade": "A",
+		"pp": 264.9136123713629,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T18:19:11.791194Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -259,6 +590,68 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 9615,
+		"mapId": 141,
+		"user": "Maye",
+		"map": {
+			"id": 141,
+			"title": "strangers once again",
+			"artist": "Tanger (with Treb)",
+			"difficultyName": "Familiar",
+			"starRating": 6.344706306826129,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/141/thumbnail?v=11"
+		},
+		"score": 9505202,
+		"accuracy": 0.9559454191033139,
+		"maxCombo": 1160,
+		"tierCounts": {
+			"perfect": 800,
+			"great": 49,
+			"good": 6,
+			"miss": 0
+		},
+		"mods": [],
+		"grade": "S",
+		"pp": 257.1471468352043,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T13:37:54.7137Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9972,
+		"mapId": 141,
+		"user": "River",
+		"map": {
+			"id": 141,
+			"title": "strangers once again",
+			"artist": "Tanger (with Treb)",
+			"difficultyName": "Familiar",
+			"starRating": 6.344706306826129,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/141/thumbnail?v=11"
+		},
+		"score": 9533322,
+		"accuracy": 0.954527712724434,
+		"maxCombo": 1202,
+		"tierCounts": {
+			"perfect": 797,
+			"great": 52,
+			"good": 5,
+			"miss": 0
+		},
+		"mods": [],
+		"grade": "S",
+		"pp": 252.25204689782387,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T23:48:55.627163Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 5696,
 		"mapId": 124,
 		"user": "Panzer",
@@ -288,6 +681,39 @@
 		"grantsPp": true,
 		"hasReplay": true,
 		"submittedAt": "2026-08-17T11:47:37.175632Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9878,
+		"mapId": 183,
+		"user": "Panzer",
+		"map": {
+			"id": 183,
+			"title": "The Big Black",
+			"artist": "The Quick Brown Fox",
+			"difficultyName": "Black Another",
+			"starRating": 5.492661510719405,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/183/thumbnail?v=3"
+		},
+		"score": 9806298,
+		"accuracy": 0.9913419913419913,
+		"maxCombo": 1011,
+		"tierCounts": {
+			"perfect": 684,
+			"great": 9,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.05"
+		],
+		"grade": "S",
+		"pp": 243.7485402656878,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T20:03:52.304294Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -326,6 +752,40 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 9430,
+		"mapId": 186,
+		"user": "River",
+		"map": {
+			"id": 186,
+			"title": "Melty Lover",
+			"artist": "seatrus",
+			"difficultyName": "Diamond",
+			"starRating": 10.48729715105765,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/186/thumbnail?v=9"
+		},
+		"score": 9369724,
+		"accuracy": 0.9906910132474043,
+		"maxCombo": 768,
+		"tierCounts": {
+			"perfect": 919,
+			"great": 9,
+			"good": 2,
+			"miss": 1
+		},
+		"mods": [
+			"EZ",
+			"VR0.7"
+		],
+		"grade": "A",
+		"pp": 238.08348348160314,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T06:27:43.882215Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 8404,
 		"mapId": 164,
 		"user": "Ethica",
@@ -356,6 +816,73 @@
 		"grantsPp": true,
 		"hasReplay": true,
 		"submittedAt": "2026-08-21T05:14:10.881588Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9304,
+		"mapId": 164,
+		"user": "Billibix",
+		"map": {
+			"id": 164,
+			"title": "Harumachi Clover",
+			"artist": "Hanasaka Yui (CV M.A.O)",
+			"difficultyName": "Ethica's Extra",
+			"starRating": 6.1058486737148225,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/164/thumbnail?v=1"
+		},
+		"score": 9914868,
+		"accuracy": 0.993993993993994,
+		"maxCombo": 157,
+		"tierCounts": {
+			"perfect": 110,
+			"great": 1,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"DT",
+			"HD"
+		],
+		"grade": "S",
+		"pp": 236.1965284808062,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-22T20:39:27.845143Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 10116,
+		"mapId": 209,
+		"user": "River",
+		"map": {
+			"id": 209,
+			"title": "Balalaika (TV Size)",
+			"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+			"difficultyName": "Insane",
+			"starRating": 4.859315769891544,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/209/thumbnail?v=9"
+		},
+		"score": 9798629,
+		"accuracy": 0.9817073170731707,
+		"maxCombo": 407,
+		"tierCounts": {
+			"perfect": 319,
+			"great": 9,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.6"
+		],
+		"grade": "S",
+		"pp": 235.7747792460884,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T02:16:33.307694Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -427,6 +954,73 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 10179,
+		"mapId": 209,
+		"user": "Arty",
+		"map": {
+			"id": 209,
+			"title": "Balalaika (TV Size)",
+			"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+			"difficultyName": "Insane",
+			"starRating": 4.859315769891544,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/209/thumbnail?v=9"
+		},
+		"score": 9986825,
+		"accuracy": 0.9979674796747967,
+		"maxCombo": 414,
+		"tierCounts": {
+			"perfect": 327,
+			"great": 1,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.5"
+		],
+		"grade": "S",
+		"pp": 230.18710367613187,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T05:00:22.395202Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9604,
+		"mapId": 52,
+		"user": "Panzer",
+		"map": {
+			"id": 52,
+			"title": "Start Again",
+			"artist": "ONE OK ROCK",
+			"difficultyName": "Rise Again",
+			"starRating": 4.569284628916619,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/52/thumbnail?v=6"
+		},
+		"score": 9904037,
+		"accuracy": 0.9923371647509579,
+		"maxCombo": 665,
+		"tierCounts": {
+			"perfect": 430,
+			"great": 5,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"HR",
+			"VR1.15"
+		],
+		"grade": "S",
+		"pp": 229.38677396361464,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T13:06:44.606434Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 8418,
 		"mapId": 153,
 		"user": "rat",
@@ -493,6 +1087,40 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 10172,
+		"mapId": 207,
+		"user": "Arty",
+		"map": {
+			"id": 207,
+			"title": "パスコード4854 (TV Size)",
+			"artist": "安田レイ",
+			"difficultyName": "Insane",
+			"starRating": 3.4477051933951506,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/207/thumbnail?v=6"
+		},
+		"score": 9893056,
+		"accuracy": 0.9911894273127754,
+		"maxCombo": 371,
+		"tierCounts": {
+			"perfect": 224,
+			"great": 3,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"HR",
+			"VR1.5P"
+		],
+		"grade": "S",
+		"pp": 224.57575906818488,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T04:07:12.143021Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 8398,
 		"mapId": 183,
 		"user": "Arty",
@@ -520,6 +1148,37 @@
 		"grantsPp": true,
 		"hasReplay": true,
 		"submittedAt": "2026-08-21T04:51:40.262651Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 10177,
+		"mapId": 179,
+		"user": "Arty",
+		"map": {
+			"id": 179,
+			"title": "UNION!!",
+			"artist": "765 Million Allstars",
+			"difficultyName": "Our Unending Journey",
+			"starRating": 5.754056687909623,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/179/thumbnail?v=16"
+		},
+		"score": 9662459,
+		"accuracy": 0.9949668268130862,
+		"maxCombo": 994,
+		"tierCounts": {
+			"perfect": 1447,
+			"great": 8,
+			"good": 0,
+			"miss": 2
+		},
+		"mods": [],
+		"grade": "A",
+		"pp": 220.87629298465535,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T04:52:58.885944Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -557,6 +1216,73 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 10107,
+		"mapId": 96,
+		"user": "River",
+		"map": {
+			"id": 96,
+			"title": "My dream girls (TV size)",
+			"artist": "NANCHERRY",
+			"difficultyName": "Insane Magical Power",
+			"starRating": 4.480701750126354,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/96/thumbnail?v=4"
+		},
+		"score": 9842534,
+		"accuracy": 0.9872471416007036,
+		"maxCombo": 571,
+		"tierCounts": {
+			"perfect": 372,
+			"great": 6,
+			"good": 1,
+			"miss": 0
+		},
+		"mods": [
+			"HR",
+			"VR1.2"
+		],
+		"grade": "S",
+		"pp": 219.3234176597075,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T01:32:02.349139Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9939,
+		"mapId": 205,
+		"user": "River",
+		"map": {
+			"id": 205,
+			"title": "パスコード4854 (TV Size)",
+			"artist": "安田レイ",
+			"difficultyName": "Memory",
+			"starRating": 4.651794189103137,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/205/thumbnail?v=4"
+		},
+		"score": 9786168,
+		"accuracy": 0.9805555555555555,
+		"maxCombo": 371,
+		"tierCounts": {
+			"perfect": 233,
+			"great": 7,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.7"
+		],
+		"grade": "S",
+		"pp": 217.37818314921608,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T23:16:48.037649Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 6244,
 		"mapId": 24,
 		"user": "Maye",
@@ -587,6 +1313,39 @@
 		"grantsPp": true,
 		"hasReplay": true,
 		"submittedAt": "2026-08-18T05:43:35.248004Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
+		"id": 9699,
+		"mapId": 209,
+		"user": "Sarunto",
+		"map": {
+			"id": 209,
+			"title": "Balalaika (TV Size)",
+			"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+			"difficultyName": "Insane",
+			"starRating": 4.859315769891544,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/209/thumbnail?v=9"
+		},
+		"score": 9814268,
+		"accuracy": 0.9817073170731707,
+		"maxCombo": 415,
+		"tierCounts": {
+			"perfect": 319,
+			"great": 9,
+			"good": 0,
+			"miss": 0
+		},
+		"mods": [
+			"VR1.5"
+		],
+		"grade": "S",
+		"pp": 211.1822441486637,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T15:38:30.269527Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	},
@@ -724,6 +1483,37 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 10112,
+		"mapId": 183,
+		"user": "River",
+		"map": {
+			"id": 183,
+			"title": "The Big Black",
+			"artist": "The Quick Brown Fox",
+			"difficultyName": "Black Another",
+			"starRating": 5.492661510719405,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/183/thumbnail?v=3"
+		},
+		"score": 9614127,
+		"accuracy": 0.9920749279538905,
+		"maxCombo": 506,
+		"tierCounts": {
+			"perfect": 686,
+			"great": 7,
+			"good": 1,
+			"miss": 0
+		},
+		"mods": [],
+		"grade": "S",
+		"pp": 200.28933997894364,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-24T01:59:08.919349Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 2613,
 		"mapId": 29,
 		"user": "Panzer",
@@ -790,6 +1580,37 @@
 		"multiplayerMatchId": null
 	},
 	{
+		"id": 9811,
+		"mapId": 121,
+		"user": "Reaperlight",
+		"map": {
+			"id": 121,
+			"title": "Til Death (Nightcore Mix)",
+			"artist": "Digital Sexy",
+			"difficultyName": "Forever",
+			"starRating": 4.709624354422432,
+			"status": "ranked",
+			"thumbnailUrl": "/maps/121/thumbnail?v=9"
+		},
+		"score": 9685367,
+		"accuracy": 0.9881310598462053,
+		"maxCombo": 1336,
+		"tierCounts": {
+			"perfect": 980,
+			"great": 14,
+			"good": 3,
+			"miss": 0
+		},
+		"mods": [],
+		"grade": "S",
+		"pp": 197.65814752470808,
+		"grantsPp": true,
+		"hasReplay": true,
+		"submittedAt": "2026-08-23T17:56:09.934966Z",
+		"gameplayContext": "Solo",
+		"multiplayerMatchId": null
+	},
+	{
 		"id": 4691,
 		"mapId": 24,
 		"user": "Reaperlight",
@@ -820,39 +1641,6 @@
 		"grantsPp": true,
 		"hasReplay": true,
 		"submittedAt": "2026-08-16T06:02:37.54739Z",
-		"gameplayContext": "Solo",
-		"multiplayerMatchId": null
-	},
-	{
-		"id": 7837,
-		"mapId": 124,
-		"user": "River",
-		"map": {
-			"id": 124,
-			"title": "Kuroiuta (Cityyy Remix)",
-			"artist": "HMMMM",
-			"difficultyName": "Dissonance",
-			"starRating": 6.4793774296710875,
-			"status": "ranked",
-			"thumbnailUrl": "/maps/124/thumbnail?v=14"
-		},
-		"score": 9885840,
-		"accuracy": 0.9887706855791962,
-		"maxCombo": 2584,
-		"tierCounts": {
-			"perfect": 1664,
-			"great": 26,
-			"good": 2,
-			"miss": 0
-		},
-		"mods": [
-			"EZ"
-		],
-		"grade": "S",
-		"pp": 185.26812833231702,
-		"grantsPp": true,
-		"hasReplay": true,
-		"submittedAt": "2026-08-19T23:21:58.079971Z",
 		"gameplayContext": "Solo",
 		"multiplayerMatchId": null
 	}

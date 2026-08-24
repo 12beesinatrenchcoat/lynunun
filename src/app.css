@@ -34,6 +34,7 @@
 
 * {
 	box-sizing: border-box;
+	margin: 0;
 }
 
 a {
@@ -58,7 +59,7 @@ main {
 	min-height: 10em;
 	flex-grow: 1;
 	max-width: 1320px;
-	margin: auto;
+	margin: 1em auto;
 }
 
 main > * + * {

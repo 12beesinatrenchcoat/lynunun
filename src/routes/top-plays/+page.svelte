@@ -7,7 +7,7 @@
 <p class="accent subtitle">// THE FINEST PERFORMANCES</p>
 <h1>Top Plays</h1>
 <p class="subtitle">
-	top 25 ◆ last updated {data.date.toISOString().replaceAll(/T|Z/gv, " ").slice(0, 16)} (UTC)
+	top 50 ◆ last updated {data.date.toISOString().replaceAll(/T|Z/gv, " ").slice(0, 16)} (UTC)
 </p>
 
 <svelte:head>
@@ -65,10 +65,18 @@
 
 <h2>Additional Notes</h2>
 <p>
-	I am only able to fetch the top 10 scores of each user through the API. If a player somehow has
-	more than 10 top plays that deserve to be featured here <em>(cough cough Panzer)</em>, only the
-	top 10 will be counted.<br />
-	This is automatically updated every day at approximately 00:05 UTC and 12:05 UTC.<br />
+	To get this leaderboard, I get the top players, and then run through *all* of their top plays,
+	repeatedly filtering and sorting until I get the top 50.
+	<small
+		>Previously I was only able to get the top 10 top scores, this is no longer the case; now all
+		top scores are processed.</small
+	>
+</p>
+
+<p>
+	This is automatically updated every day at approximately 00:05 UTC and 12:05 UTC. <small
+		>Assuming GitHub works.</small
+	><br />
 	Historical data is not shown, but is planned for the future. Eventually.
 </p>
 

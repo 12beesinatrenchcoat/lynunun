@@ -2,20 +2,23 @@ import type { PageServerLoad } from "./$types";
 import type { LyneAPI } from "$lib/types/api";
 import { dev } from "$app/environment";
 
+const leaderboardLength = 50;
+
 export const load: PageServerLoad = async () => {
 	// Be nice to ZZZ's servers, use testing
 	if (dev) {
 		const topPlays = await import("$lib/testing/topPlays.json", { with: { type: "json" } });
+		console.warn("/top-plays: ⚠ RUNNING IN DEV MODE, DATA IS NOT LIVE");
 		return { topPlays: topPlays.default, date: new Date() };
 	}
 
-	const players: string[] = [];
-	let plays: LyneAPI.Play[] = [];
+	const players: Array<{ username: string; totalPp: number }> = [];
+	let plays: LyneAPI.Score[] = [];
 
 	let lowest = -2;
 
 	// Fill players
-	await fetch("https://api.lyne.pp.ua/rankings/global?scope=all&page=1&pageSize=50")
+	await fetch("https://api.zxz.moe/rankings/global?scope=all&page=1&pageSize=50")
 		.then(async (response) => {
 			if (!response.ok) {
 				throw new Error(response.statusText);
@@ -25,30 +28,36 @@ export const load: PageServerLoad = async () => {
 		})
 		.then((data) => {
 			for (const item of data.items) {
-				players.push(item.user.username);
+				players.push({
+					username: item.user.username,
+					totalPp: item.totalPp
+				});
 			}
 		});
 
 	// Get players
 	for (const player of players) {
 		// eslint-disable-next-line no-await-in-loop
-		const user = await fetch("https://api.lyne.pp.ua/users/" + player).then(async (response) => {
-			if (!response.ok) {
-				throw new Error(`Error when fetching user ${player}: ${response.statusText}`);
+		const user = await fetch("https://api.zxz.moe/users/" + player.username + "/scores").then(
+			async (response) => {
+				if (!response.ok) {
+					throw new Error(`Error when fetching user ${player.username}: ${response.statusText}`);
+				}
+
+				return response.json() as Promise<LyneAPI.UserScores>;
 			}
+		);
 
-			return response.json() as Promise<LyneAPI.User>;
-		});
-
-		if (user.stats.totalPp < lowest) {
+		// Total PP less than lowest score, we can quit now.
+		if (player.totalPp < lowest) {
 			break;
 		}
 
-		const { topScores } = user;
+		const topScores = user.items;
 
 		for (const score of topScores) {
-			if (score.pp > lowest || plays.length < 25) {
-				score.user = player;
+			if (score.pp > lowest || plays.length < leaderboardLength) {
+				score.user = player.username;
 				plays.push(score);
 			} else {
 				break;
@@ -56,9 +65,9 @@ export const load: PageServerLoad = async () => {
 		}
 
 		plays.sort((a, b) => b.pp - a.pp);
-		plays = plays.slice(0, 25);
+		plays = plays.slice(0, leaderboardLength);
 		lowest = plays.at(-1)!.pp ?? -2;
-		console.log(`Processed ${player}, lowest is now ${lowest}`);
+		console.log(`Processed ${player.username}, lowest is now ${lowest}`);
 	}
 
 	return { topPlays: plays, date: new Date() };

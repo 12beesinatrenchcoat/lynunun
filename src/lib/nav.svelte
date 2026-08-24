@@ -25,7 +25,7 @@
 
 <style>
 	div {
-		margin: 0 -2rem;
+		margin: 0 -2rem 1rem;
 		border-bottom: 1px solid var(--fg-dim);
 	}
 

@@ -18,7 +18,7 @@ namespace LyneAPI {
 		thumbnailUrl: string;
 	};
 
-	type Play = {
+	type Score = {
 		id: number;
 		mapId: number;
 		user?: string;
@@ -73,7 +73,12 @@ namespace LyneAPI {
 		};
 		skills: Skills;
 		skillPercentiles: Skills;
-		topScores: Play[];
+		topScores: Score[];
+	};
+
+	// https://api.lyne.pp.ua/users/[username]/scores
+	type UserScores = {
+		items: Score[];
 	};
 }
 
