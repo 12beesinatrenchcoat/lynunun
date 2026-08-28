@@ -6,7 +6,7 @@ let plays = [];
 let lowest = -99_999;
 
 // Fill players
-await fetch("https://api.lyne.pp.ua/rankings/global?scope=all&page=1&pageSize=50")
+await fetch("https://api.zxz.moe/rankings/global?scope=all&page=1&pageSize=50")
 	.then((res) => res.json())
 	.then((data) => {
 		data.items.forEach((item) => {
@@ -16,7 +16,7 @@ await fetch("https://api.lyne.pp.ua/rankings/global?scope=all&page=1&pageSize=50
 
 // Get players
 for (const player of players) {
-	const user = await fetch("https://api.lyne.pp.ua/users/" + player).then((res) => res.json());
+	const user = await fetch("https://api.zxz.moe/users/" + player).then((res) => res.json());
 
 	if (user.stats.totalPp < lowest) {
 		break;

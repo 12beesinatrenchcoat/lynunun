@@ -14,54 +14,57 @@
 	<title>LYNUNUN: Top Plays</title>
 </svelte:head>
 
-<table>
-	<thead>
-		<tr>
-			<th scope="col">Rank</th>
-			<th scope="col">Player</th>
-			<th scope="col">Map</th>
-			<th scope="col">Performance</th>
-		</tr>
-	</thead>
-	<tbody>
-		{#each data.topPlays as play, i (play.id)}
-			<tr data-id={play.id} onclick={() => window.open("https://syne.zxz.moe/scores/" + play.id)}>
-				<td>#{i + 1}</td>
-				<td>{play.user}</td>
-				<td>
-					<div class="play-map">
-						<span class="song-title">
-							{play.map.title}
-							<div class="artist-name">
-								by {play.map.artist}
-							</div>
-						</span>
-
-						<span class="sub-line">
-							<span>
-								{play.map.difficultyName}
-								<span>◆{play.map.starRating.toFixed(2)}</span>
-							</span>
-							<span>
-								{play.mods.join(" ") || "-"}
-							</span>
-							<span>
-								{play.tierCounts.perfect}/{play.tierCounts.great}/{play.tierCounts.good}/{play
-									.tierCounts.miss}
-							</span>
-							<span>{(play.accuracy * 100).toFixed(2)}%</span>
-						</span>
-					</div>
-				</td>
-				<td>
-					<span class="pp">
-						{play.pp.toFixed(3)}
-					</span> pp
-				</td>
+<div id="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th scope="col">Rank</th>
+				<th scope="col">Player</th>
+				<th scope="col">Map</th>
+				<th scope="col">Performance</th>
 			</tr>
-		{/each}
-	</tbody>
-</table>
+		</thead>
+		<tbody>
+			{#each data.topPlays as play, i (play.id)}
+				<tr data-id={play.id} onclick={() => window.open("https://syne.zxz.moe/scores/" + play.id)}>
+					<td class="rank">#{i + 1}</td>
+					<td>{play.user}</td>
+					<td>
+						<div class="play-map">
+							<span class="song-title">
+								{play.map.title}
+								<div class="artist-name">
+									by {play.map.artist}
+								</div>
+							</span>
+
+							<span class="sub-line">
+								<span>
+									{play.map.difficultyName}
+									<span>◆{play.map.starRating.toFixed(2)}</span>
+								</span>
+								<span>
+									{play.mods.join(" ") || "-"}
+								</span>
+								<span class="mobile-hide">
+									{play.tierCounts.perfect}/{play.tierCounts.great}/{play.tierCounts.good}/{play
+										.tierCounts.miss}
+								</span>
+								<span>{(play.accuracy * 100).toFixed(2)}%</span>
+							</span>
+						</div>
+					</td>
+					<td class="pp">
+						<span class="pp-value">
+							{play.pp.toFixed(2)}
+						</span>
+						<span class="mobile-hide">pp</span>
+					</td>
+				</tr>
+			{/each}
+		</tbody>
+	</table>
+</div>
 
 <h2>Additional Notes</h2>
 <p>
@@ -83,6 +86,7 @@
 <style>
 	table {
 		border-collapse: collapse;
+		min-width: 60ch;
 		width: 100%;
 	}
 
@@ -92,11 +96,16 @@
 		text-transform: uppercase;
 		color: var(--fg-mid);
 		background: var(--bg-b);
+
+		position: sticky;
+		top: 5rem;
 	}
 
 	th,
 	td {
 		padding: 0.5ch 1ch;
+		height: 100%;
+		vertical-align: middle;
 	}
 
 	tr[data-id] {
@@ -104,11 +113,22 @@
 	}
 
 	tr {
+		vertical-align: middle;
 		border-bottom: 1px solid var(--fg-dim);
 	}
 
+	tbody > tr {
+		transition: all 0.1s;
+		&:hover {
+			scale: 1.025;
+			background-color: var(--bg-a-tl);
+			box-shadow: 0 0 2px 2px var(--fg-dim);
+			z-index: 10;
+		}
+	}
+
 	tbody > :nth-child(1) {
-		background: var(--gold-gradient);
+		background-image: var(--gold-gradient);
 
 		td:first-child {
 			color: var(--gold);
@@ -116,7 +136,7 @@
 	}
 
 	tbody > :nth-child(2) {
-		background: var(--silver-gradient);
+		background-image: var(--silver-gradient);
 
 		td:first-child {
 			color: var(--silver);
@@ -124,11 +144,16 @@
 	}
 
 	tbody > :nth-child(3) {
-		background: var(--bronze-gradient);
+		background-image: var(--bronze-gradient);
 
 		td:first-child {
 			color: var(--bronze);
 		}
+	}
+
+	.rank {
+		font-family: "IBM Plex Mono", monospace;
+		width: 3.5ch;
 	}
 
 	.artist-name {
@@ -142,9 +167,13 @@
 	}
 
 	.pp {
+		text-align: right;
+	}
+
+	.pp-value {
 		color: var(--red);
-		font-family: "IBM Plex Mono", monospace;
 		font-size: var(--text-lg);
+		font-family: "IBM Plex Mono", monospace;
 	}
 
 	.song-title {
@@ -163,5 +192,25 @@
 		color: var(--fg-mid);
 		font-size: var(--text-sm);
 		font-family: "IBM Plex Mono", monospace;
+	}
+
+	@media (max-width: 640px) {
+		#table-wrapper {
+			max-width: calc(100% + 4rem);
+			overflow-x: scroll;
+			margin: 0 -2rem 1rem;
+		}
+
+		thead {
+			position: static;
+		}
+
+		tr:hover {
+			scale: 1 !important;
+		}
+
+		.mobile-hide {
+			display: none;
+		}
 	}
 </style>

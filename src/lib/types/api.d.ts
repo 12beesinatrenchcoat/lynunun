@@ -37,7 +37,7 @@ namespace LyneAPI {
 		multiplayerMatchId: number;
 	};
 
-	// https://api.lyne.pp.ua/rankings/global
+	// https://api.zxz.moe/rankings/global
 	type Rankings = {
 		items: Array<{
 			rank: number;
@@ -50,7 +50,7 @@ namespace LyneAPI {
 		}>;
 	};
 
-	// https://api.lyne.pp.ua/users/[username]
+	// https://api.zxz.moe/users/[username]
 	type User = {
 		id: number;
 		username: string;
@@ -76,9 +76,32 @@ namespace LyneAPI {
 		topScores: Score[];
 	};
 
-	// https://api.lyne.pp.ua/users/[username]/scores
+	// https://api.zxz.moe/users/[username]/scores
 	type UserScores = {
 		items: Score[];
+	};
+
+	// https://api.zxz.moe/users/[username]/pp-history
+	type UserPpHistory = {
+		user: {
+			id: number;
+			username: string;
+			country: string;
+			role: string;
+			isBot: boolean;
+			isSupporter: boolean;
+			nameColour: string;
+			avatarUrl: string;
+			isBetaSupporter: true;
+			roles: string[];
+		};
+		days: number;
+		points: Array<{
+			date: string;
+			totalPp: number;
+			globalRank: number;
+			countryRank: number;
+		}>;
 	};
 }
 

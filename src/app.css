@@ -19,6 +19,8 @@
 
 	--bg-a: #0d0406;
 	--bg-b: #39081b;
+	--bg-a-tl: #0d0406c4;
+	--bg-b-tl: #39081bc4;
 	--fg-pri: var(--white);
 	--fg-mid: #ce9eab;
 	--fg-dim: #865d67;
@@ -58,7 +60,8 @@ main {
 	justify-content: center;
 	min-height: 10em;
 	flex-grow: 1;
-	max-width: 1320px;
+	width: 100%;
+	max-width: min(1320px, 100vw);
 	margin: 1em auto;
 }
 
@@ -106,6 +109,10 @@ h2 {
 	font-size: var(--text-sm);
 	font-weight: 500;
 	text-transform: uppercase;
+}
+
+.subtitle.accent {
+	letter-spacing: 0.25ch;
 }
 
 .mid {

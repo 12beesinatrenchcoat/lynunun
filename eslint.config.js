@@ -41,6 +41,7 @@ export default defineConfig(
 		rules: {
 			"capitalized-comments": ["off"],
 			"@stylistic/quotes": ["error", "double", { avoidEscape: true }],
+			"@typescript-eslint/consistent-indexed-object-style": ["off"],
 			"unicorn/no-break-in-nested-loop": ["off"]
 		}
 	}

@@ -4,8 +4,8 @@
 	import Lynunnun from "$lib/assets/lynunun.svg?raw";
 
 	const navItems = [
-		// [resolve("/history"), "Leaderboard History"],
 		[resolve("/top-plays"), "Top Plays"],
+		[resolve("/history"), "Leaderboard History"],
 		[resolve("/tomato"), "Picture of a Tomato"]
 	];
 </script>
@@ -25,8 +25,13 @@
 
 <style>
 	div {
-		margin: 0 -2rem 1rem;
+		margin: -1rem -2rem 1rem;
 		border-bottom: 1px solid var(--fg-dim);
+		position: sticky;
+		top: 0;
+		background: var(--bg-a-tl);
+		backdrop-filter: blur(8px);
+		z-index: 1000;
 	}
 
 	nav {
@@ -34,7 +39,7 @@
 		align-items: center;
 		gap: 2ch;
 
-		padding: 0 1em 1em;
+		padding: 1rem;
 
 		margin: auto;
 		max-width: 1440px;
