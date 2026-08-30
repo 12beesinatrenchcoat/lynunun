@@ -56,7 +56,6 @@
 
 					outputObject.notes[j].hitsounds = structuredClone(note.hitsounds);
 					hitsoundsCopied++;
-					break;
 				}
 
 				// In case there is no note, and we went over.
