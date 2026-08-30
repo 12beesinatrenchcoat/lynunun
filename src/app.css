@@ -91,16 +91,26 @@ h2 {
 	color: var(--red);
 }
 
+button,
 .button-link {
 	border: 1px solid var(--fg-mid);
 	padding: 1ch 2ch;
 	text-decoration: none;
 	transition: all 0.2s;
+	background: none;
+	color: var(--fg-pri);
 }
 
+button:hover,
 .button-link:hover {
 	color: var(--red);
 	border: 1px solid var(--red);
+}
+
+button:disabled,
+button:disabled:hover {
+	border: 1px solid var(--fg-dim);
+	color: var(--fg-dim);
 }
 
 .subtitle {
