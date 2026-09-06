@@ -6,6 +6,7 @@
 	const navItems = [
 		[resolve("/top-plays"), "Top Plays"],
 		[resolve("/history"), "Leaderboard History"],
+		[resolve("/mapping-tools"), "Mapping Tools"],
 		[resolve("/tomato"), "Picture of a Tomato"]
 	];
 </script>
@@ -45,6 +46,7 @@
 		max-width: 1440px;
 
 		font-family: "IBM Plex Mono", monospace;
+		font-size: var(--text-sm);
 		text-transform: uppercase;
 	}
 

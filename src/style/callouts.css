@@ -1,0 +1,37 @@
+.callout {
+	border: 2px solid var(--fg-mid);
+	padding: 1em;
+	position: relative;
+}
+
+.callout.warning {
+	&::before {
+		content: "WARNING";
+		font-weight: bold;
+		display: block;
+		position: relative;
+
+		margin: -1rem -1rem 0.5em;
+		padding: 0rem 1rem;
+	}
+
+	&::after {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		z-index: -99;
+		opacity: 0.25;
+		height: 1.5em;
+		content: "";
+		background: repeating-linear-gradient(
+			-45deg,
+			var(--yellow),
+			var(--yellow) 1ch,
+			#000 1ch,
+			#000 2ch
+		);
+	}
+
+	border-color: var(--yellow);
+}

@@ -123,17 +123,16 @@
 <div class="subtitle accent">// the same sounds from one to another</div>
 <h1>hitsound copier</h1>
 
-<p>
-	This should probably be in the game, but this is something quick and dirty until it actually is.<br
-	/>
-	Extremely user-unfriendly, sorry.
+<p class="callout warning">
+	This is now natively implemented in-game.
+	<small>(Style &gt Hitsound Sets, "Copy sounds to other difficulties")</small>
+	<br />I'd rather you use that instead; this was thrown together very quickly, very poorly. No
+	updates or support will be provided for this. Thank you!
+	<br />
+	<small
+		>And if you still insist on using this… <strong>please back up your map files.</strong></small
+	>
 </p>
-
-<p>
-	⚠️ <strong>WARNING</strong>: This was quickly thrown together. It may not work sometimes.
-	<strong>Please backup your map files.</strong>
-</p>
-
 <h2>inputs</h2>
 <section id="inputs">
 	<label>
