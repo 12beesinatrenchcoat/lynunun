@@ -1,12 +1,14 @@
 <script>
 	import GameName from "$lib/gamename.svelte";
+	import Logo from "$lib/assets/logo.svg?no-inline";
 </script>
 
 <svelte:head>
 	<title>LYNUNUN: bullshit on a tangential horizon</title>
 </svelte:head>
 
-<h1>LYNUNUN (logo pending)</h1>
+<img src={Logo} alt="Lynunun logo" />
+
 <p class="subtitle">
 	bullshit on a tangential horizon<br />
 	<span class="accent">your'e × mom</span>
@@ -30,3 +32,9 @@
 <p>This website is still very, very barebones. Please don't expect too much.</p>
 
 <p>I am not affiliated with ZZZ or <GameName />, this is purely a fan-made site. pls don't sue</p>
+
+<style>
+	img {
+		max-width: 64ch;
+	}
+</style>

@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { resolve } from "$app/paths";
 	import Navlink from "$lib/navlink.svelte";
-	import Lynunnun from "$lib/assets/lynunun.svg?raw";
+	import Icon from "$lib/assets/icon.svg?no-inline";
 
 	const navItems = [
 		[resolve("/top-plays"), "Top Plays"],
@@ -15,7 +15,7 @@
 	<nav>
 		<a href={resolve("/")} id="root-link">
 			<!-- eslint-disable-next-line svelte/no-at-html-tags -->
-			{@html Lynunnun}
+			<img src={Icon} alt="Lynunun Icon" />
 		</a>
 		{#each navItems as navItem, i (i)}
 			<Navlink href={navItem[0]} title={navItem[1]} />
@@ -51,6 +51,10 @@
 	}
 
 	#root-link {
-		height: 3em;
+		height: 2.5rem;
+
+		& > img {
+			height: 100%;
+		}
 	}
 </style>

@@ -1,6 +1,6 @@
 <script lang="ts">
 	import "../app.css";
-	import favicon from "$lib/assets/lynunun.svg";
+	import favicon from "$lib/assets/icon.svg";
 	import Nav from "$lib/nav.svelte";
 	import Footer from "$lib/footer.svelte";
 
