@@ -70,7 +70,7 @@ export const load: PageServerLoad = async ({ fetch, setHeaders }) => {
 	);
 
 	setHeaders({
-		"cache-control": "max-age=1800, public"
+		"cache-control": "max-age=1800, s-maxage=1800, durable, public"
 	});
 
 	await Promise.all(promises);

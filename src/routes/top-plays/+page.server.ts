@@ -71,7 +71,7 @@ export const load: PageServerLoad = async ({ fetch, setHeaders }) => {
 	}
 
 	setHeaders({
-		"cache-control": "max-age=7200, public"
+		"cache-control": "max-age=7200, s-maxage=7200, durable, public"
 	});
 
 	return { topPlays: plays, date: new Date() };
