@@ -6,11 +6,11 @@ const leaderboardLength = 50;
 
 export const load: PageServerLoad = async ({ fetch, setHeaders }) => {
 	// Be nice to ZZZ's servers, use testing
-	// if (dev) {
-	// 	const topPlays = await import("$lib/testing/topPlays.json", { with: { type: "json" } });
-	// 	console.warn("/top-plays: ⚠ RUNNING IN DEV MODE, DATA IS NOT LIVE");
-	// 	return { topPlays: topPlays.default, date: new Date() };
-	// }
+	if (dev) {
+		const topPlays = await import("$lib/testing/topPlays.json", { with: { type: "json" } });
+		console.warn("/top-plays: ⚠ RUNNING IN DEV MODE, DATA IS NOT LIVE");
+		return { topPlays: topPlays.default, date: new Date() };
+	}
 
 	const players: Array<{ username: string; totalPp: number }> = [];
 	let plays: LyneAPI.Score[] = [];
