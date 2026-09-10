@@ -1,0 +1,3320 @@
+{
+	"firstPlaces": [
+		{
+			"id": 16913,
+			"mapId": 259,
+			"map": {
+				"id": 259,
+				"title": "MarbleBlue.",
+				"artist": "MisoilePunch",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Master",
+				"starRating": 7.753952488778727,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/259/thumbnail?v=18",
+				"ruleset": "line"
+			},
+			"score": 9881174,
+			"accuracy": 0.9886091127098321,
+			"maxCombo": 1142,
+			"tierCounts": {
+				"perfect": 820,
+				"great": 13,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.1"
+			],
+			"grade": "S",
+			"pp": 561.3408137664111,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-09T23:20:22.177302Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 68,
+				"total": 72
+			}
+		},
+		{
+			"id": 16918,
+			"mapId": 125,
+			"map": {
+				"id": 125,
+				"title": "Help",
+				"artist": "Thaehan",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Final",
+				"starRating": 6.5125154176366165,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/125/thumbnail?v=9",
+				"ruleset": "line"
+			},
+			"score": 9905443,
+			"accuracy": 0.991044124071647,
+			"maxCombo": 935,
+			"tierCounts": {
+				"perfect": 753,
+				"great": 9,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.1"
+			],
+			"grade": "S",
+			"pp": 489.20968992225727,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-09T23:32:09.893223Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 20,
+				"total": 20
+			}
+		},
+		{
+			"id": 10976,
+			"mapId": 24,
+			"map": {
+				"id": 24,
+				"title": "Epitaph",
+				"artist": "TEARS OF TRAGEDY",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Requiem",
+				"starRating": 6.489709184798827,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/24/thumbnail?v=60",
+				"ruleset": "line"
+			},
+			"score": 9746104,
+			"accuracy": 0.9833738848337389,
+			"maxCombo": 2118,
+			"tierCounts": {
+				"perfect": 2004,
+				"great": 50,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 394.6266507649568,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-25T21:22:14.152338Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 55,
+				"total": 56
+			}
+		},
+		{
+			"id": 9901,
+			"mapId": 208,
+			"map": {
+				"id": 208,
+				"title": "Balalaika (TV Size)",
+				"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Final Stage",
+				"starRating": 4.886739157521805,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/208/thumbnail?v=14",
+				"ruleset": "line"
+			},
+			"score": 9781596,
+			"accuracy": 0.9784449576597383,
+			"maxCombo": 500,
+			"tierCounts": {
+				"perfect": 419,
+				"great": 14,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.45"
+			],
+			"grade": "S",
+			"pp": 389.8390085013466,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-23T21:40:08.999507Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 12523,
+			"mapId": 163,
+			"map": {
+				"id": 163,
+				"title": "Carol of the NEW! Ones",
+				"artist": "Satoishi Yuka feat. Fujiwara Hagane",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Again!",
+				"starRating": 7.53748950064565,
+				"status": "featured",
+				"thumbnailUrl": "/maps/163/thumbnail?v=15",
+				"ruleset": "line"
+			},
+			"score": 9812968,
+			"accuracy": 0.9817751808569839,
+			"maxCombo": 1578,
+			"tierCounts": {
+				"perfect": 1167,
+				"great": 24,
+				"good": 7,
+				"miss": 0
+			},
+			"mods": [],
+			"grade": "S",
+			"pp": 381.8831497751953,
+			"grantsPp": false,
+			"hasReplay": true,
+			"submittedAt": "2026-08-29T07:07:43.083451Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 69,
+				"total": 69
+			}
+		},
+		{
+			"id": 9777,
+			"mapId": 209,
+			"map": {
+				"id": 209,
+				"title": "Balalaika (TV Size)",
+				"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Insane",
+				"starRating": 3.9229080261723928,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/209/thumbnail?v=9",
+				"ruleset": "line"
+			},
+			"score": 9869323,
+			"accuracy": 0.9878048780487805,
+			"maxCombo": 413,
+			"tierCounts": {
+				"perfect": 322,
+				"great": 6,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.65"
+			],
+			"grade": "S",
+			"pp": 346.90595080478846,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-23T16:53:11.356546Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 1,
+				"total": 1
+			}
+		},
+		{
+			"id": 9967,
+			"mapId": 205,
+			"map": {
+				"id": 205,
+				"title": "パスコード4854 (TV Size)",
+				"artist": "安田レイ",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Memory",
+				"starRating": 3.463578950996876,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/205/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9839696,
+			"accuracy": 0.9861111111111112,
+			"maxCombo": 372,
+			"tierCounts": {
+				"perfect": 235,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.5"
+			],
+			"grade": "S",
+			"pp": 302.5649047030229,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-23T23:42:07.90683Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 9986,
+			"mapId": 207,
+			"map": {
+				"id": 207,
+				"title": "パスコード4854 (TV Size)",
+				"artist": "安田レイ",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Insane",
+				"starRating": 2.8420564848954672,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/207/thumbnail?v=6",
+				"ruleset": "line"
+			},
+			"score": 9954640,
+			"accuracy": 0.9970631424375918,
+			"maxCombo": 369,
+			"tierCounts": {
+				"perfect": 226,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"HD",
+				"VR1.6"
+			],
+			"grade": "S",
+			"pp": 287.00708034241325,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-24T00:00:12.92402Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16029,
+			"mapId": 29,
+			"map": {
+				"id": 29,
+				"title": "Chocolate Scramble",
+				"artist": "takehirotei",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Chocolatoh",
+				"starRating": 5.06940872476221,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/29/thumbnail?v=13",
+				"ruleset": "line"
+			},
+			"score": 9953059,
+			"accuracy": 0.9978070175438597,
+			"maxCombo": 1674,
+			"tierCounts": {
+				"perfect": 1212,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 248.20986081392238,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T18:22:24.962776Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 9620,
+			"mapId": 179,
+			"map": {
+				"id": 179,
+				"title": "UNION!!",
+				"artist": "765 Million Allstars",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Our Unending Journey",
+				"starRating": 4.5730674514598215,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/179/thumbnail?v=16",
+				"ruleset": "line"
+			},
+			"score": 9921277,
+			"accuracy": 0.9922214596202242,
+			"maxCombo": 1979,
+			"tierCounts": {
+				"perfect": 1440,
+				"great": 17,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.2"
+			],
+			"grade": "S",
+			"pp": 242.353495206135,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-23T14:01:32.270288Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 12,
+				"total": 12
+			}
+		},
+		{
+			"id": 14061,
+			"mapId": 78,
+			"map": {
+				"id": 78,
+				"title": "nekomimi",
+				"artist": "saradisk",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Extra",
+				"starRating": 4.681053728513108,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/78/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9971874,
+			"accuracy": 0.9982683982683983,
+			"maxCombo": 501,
+			"tierCounts": {
+				"perfect": 384,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 208.34433812024017,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-01T20:50:17.046707Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 83,
+				"total": 94
+			}
+		},
+		{
+			"id": 2624,
+			"mapId": 65,
+			"map": {
+				"id": 65,
+				"title": "nekomimi",
+				"artist": "saradisk",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Nekomin",
+				"starRating": 5.175920663636808,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/65/thumbnail?v=8",
+				"ruleset": "line"
+			},
+			"score": 9927187,
+			"accuracy": 0.9940740740740741,
+			"maxCombo": 542,
+			"tierCounts": {
+				"perfect": 446,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.1"
+			],
+			"grade": "S",
+			"pp": 205.5190252783446,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-13T07:10:08.788745Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 47,
+				"total": 57
+			}
+		},
+		{
+			"id": 8344,
+			"mapId": 84,
+			"map": {
+				"id": 84,
+				"title": "S.N.U.F.F.Y (Cut Ver.)",
+				"artist": "METAROOM",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Raccoon",
+				"starRating": 6.939580614417434,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/84/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9907893,
+			"accuracy": 0.995174077904171,
+			"maxCombo": 1161,
+			"tierCounts": {
+				"perfect": 960,
+				"great": 7,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR0.7"
+			],
+			"grade": "S",
+			"pp": 206.39873419876696,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-21T02:09:03.757739Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 56,
+				"total": 61
+			}
+		},
+		{
+			"id": 16024,
+			"mapId": 132,
+			"map": {
+				"id": 132,
+				"title": "Usa Gatsu girl no Nikki",
+				"artist": "Aitsuki Nakuru & A than_Lily",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "UsaGiri",
+				"starRating": 5.13830439426771,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/132/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9963452,
+			"accuracy": 0.9965776865160849,
+			"maxCombo": 1444,
+			"tierCounts": {
+				"perfect": 969,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [],
+			"grade": "S",
+			"pp": 194.00035737773274,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T17:52:16.713157Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 4,
+				"total": 4
+			}
+		},
+		{
+			"id": 14706,
+			"mapId": 254,
+			"map": {
+				"id": 254,
+				"title": "Inferno (TV Size)",
+				"artist": "Mrs. GREEN APPLE",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Advanced",
+				"starRating": 2.4369485423445876,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/254/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9753284,
+			"accuracy": 0.9777777777777777,
+			"maxCombo": 409,
+			"tierCounts": {
+				"perfect": 232,
+				"great": 8,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"HD",
+				"VR1.5"
+			],
+			"grade": "S",
+			"pp": 193.09799122062938,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-03T18:55:35.102497Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 43,
+				"total": 47
+			}
+		},
+		{
+			"id": 10868,
+			"mapId": 89,
+			"map": {
+				"id": 89,
+				"title": "Hana wa Odore ya Irohaniho",
+				"artist": "Team \"Hanayamata\"",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Cherry Blossom",
+				"starRating": 3.791558099583954,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/89/thumbnail?v=25",
+				"ruleset": "line"
+			},
+			"score": 9802073,
+			"accuracy": 0.9809335963182118,
+			"maxCombo": 1349,
+			"tierCounts": {
+				"perfect": 985,
+				"great": 29,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.4"
+			],
+			"grade": "S",
+			"pp": 188.2884130444952,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-25T16:19:23.186325Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 11477,
+			"mapId": 219,
+			"map": {
+				"id": 219,
+				"title": "Balalaika (TV Size)",
+				"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Amats' Insane",
+				"starRating": 3.267938778857461,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/219/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9827665,
+			"accuracy": 0.9835390946502057,
+			"maxCombo": 412,
+			"tierCounts": {
+				"perfect": 316,
+				"great": 8,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.6"
+			],
+			"grade": "S",
+			"pp": 181.00346710840495,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T02:39:47.998334Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 14440,
+			"mapId": 252,
+			"map": {
+				"id": 252,
+				"title": "Inferno (TV Size)",
+				"artist": "Mrs. GREEN APPLE",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Adolla Burst",
+				"starRating": 4.759920135883487,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/252/thumbnail?v=15",
+				"ruleset": "line"
+			},
+			"score": 9752619,
+			"accuracy": 0.9772528433945756,
+			"maxCombo": 495,
+			"tierCounts": {
+				"perfect": 368,
+				"great": 13,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.25"
+			],
+			"grade": "S",
+			"pp": 178.30390578793782,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-02T22:18:51.204043Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 18,
+				"total": 20
+			}
+		},
+		{
+			"id": 6551,
+			"mapId": 111,
+			"map": {
+				"id": 111,
+				"title": "Harumachi Clover",
+				"artist": "Hanasaka Yui (CV M.A.O)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Tiny Hidden Special",
+				"starRating": 5.102873725014245,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/111/thumbnail?v=8",
+				"ruleset": "line"
+			},
+			"score": 9937411,
+			"accuracy": 0.9947916666666666,
+			"maxCombo": 157,
+			"tierCounts": {
+				"perfect": 127,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"EZ",
+				"FG",
+				"VR1.4"
+			],
+			"grade": "S",
+			"pp": 164.90878435072696,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-18T09:57:45.819133Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 9878,
+			"mapId": 183,
+			"map": {
+				"id": 183,
+				"title": "The Big Black",
+				"artist": "The Quick Brown Fox",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Black Another",
+				"starRating": 4.621992238838629,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/183/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9806298,
+			"accuracy": 0.9913419913419913,
+			"maxCombo": 1011,
+			"tierCounts": {
+				"perfect": 684,
+				"great": 9,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 157.71119143090357,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-23T20:03:52.304294Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 338,
+				"total": 410
+			}
+		},
+		{
+			"id": 16285,
+			"mapId": 164,
+			"map": {
+				"id": 164,
+				"title": "Harumachi Clover",
+				"artist": "Hanasaka Yui (CV M.A.O)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Ethica's Extra",
+				"starRating": 4.139455392231089,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/164/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9948267,
+			"accuracy": 0.993993993993994,
+			"maxCombo": 152,
+			"tierCounts": {
+				"perfect": 110,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.55"
+			],
+			"grade": "S",
+			"pp": 157.01349157434834,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T01:50:51.469107Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 6,
+				"total": 6
+			}
+		},
+		{
+			"id": 16110,
+			"mapId": 298,
+			"map": {
+				"id": 298,
+				"title": "Gotoubun no Kimochi (TV Size)",
+				"artist": "Nakanoke no Itsutsugo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Quintessential Love!",
+				"starRating": 4.309822917408632,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/298/thumbnail?v=5",
+				"ruleset": "line"
+			},
+			"score": 9841504,
+			"accuracy": 0.984251968503937,
+			"maxCombo": 542,
+			"tierCounts": {
+				"perfect": 372,
+				"great": 9,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 154.18960651452096,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T20:47:18.355448Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 8,
+				"total": 8
+			}
+		},
+		{
+			"id": 16265,
+			"mapId": 128,
+			"map": {
+				"id": 128,
+				"title": "Eyes Half Closed (Cut Ver.)",
+				"artist": "Crywolf",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Huvafen",
+				"starRating": 5.6119879717040195,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/128/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9915650,
+			"accuracy": 0.9925650557620818,
+			"maxCombo": 374,
+			"tierCounts": {
+				"perfect": 266,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 153.20401155578745,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T01:14:29.028036Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 16,
+				"total": 16
+			}
+		},
+		{
+			"id": 15257,
+			"mapId": 174,
+			"map": {
+				"id": 174,
+				"title": "Sweets Holic (Cut Ver.)",
+				"artist": "Yamajet feat. haru*ama*nya",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Insane",
+				"starRating": 5.817575668882578,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/174/thumbnail?v=30",
+				"ruleset": "line"
+			},
+			"score": 9695093,
+			"accuracy": 0.9976525821596244,
+			"maxCombo": 671,
+			"tierCounts": {
+				"perfect": 425,
+				"great": 0,
+				"good": 0,
+				"miss": 1
+			},
+			"mods": [
+				"HR",
+				"VR0.9"
+			],
+			"grade": "A",
+			"pp": 149.77631930244954,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-04T22:47:17.817135Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16310,
+			"mapId": 96,
+			"map": {
+				"id": 96,
+				"title": "My dream girls (TV size)",
+				"artist": "NANCHERRY",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Insane Magical Power",
+				"starRating": 3.326411155543399,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/96/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9903902,
+			"accuracy": 0.9894459102902374,
+			"maxCombo": 584,
+			"tierCounts": {
+				"perfect": 373,
+				"great": 6,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.2"
+			],
+			"grade": "S",
+			"pp": 138.0608402825221,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:40:27.724562Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16233,
+			"mapId": 7,
+			"map": {
+				"id": 7,
+				"title": "Black Rover (TV Size)",
+				"artist": "Vickeblanka",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 3.4613139698236663,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/7/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9840842,
+			"accuracy": 0.982532751091703,
+			"maxCombo": 404,
+			"tierCounts": {
+				"perfect": 223,
+				"great": 6,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.2"
+			],
+			"grade": "S",
+			"pp": 136.83370849766197,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T00:16:44.888603Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 9604,
+			"mapId": 52,
+			"map": {
+				"id": 52,
+				"title": "Start Again",
+				"artist": "ONE OK ROCK",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Rise Again",
+				"starRating": 3.6433995987814893,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/52/thumbnail?v=6",
+				"ruleset": "line"
+			},
+			"score": 9903821,
+			"accuracy": 0.9923371647509579,
+			"maxCombo": 662,
+			"tierCounts": {
+				"perfect": 430,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 135.63106975929583,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-23T13:06:44.606434Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 155,
+				"total": 167
+			}
+		},
+		{
+			"id": 15929,
+			"mapId": 231,
+			"map": {
+				"id": 231,
+				"title": "Just a Sunny Day for You",
+				"artist": "Yorushika",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "sunlight slowly filtering through the trees on a warm summer day",
+				"starRating": 3.5697288839563197,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/231/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9926389,
+			"accuracy": 0.9935809261806511,
+			"maxCombo": 935,
+			"tierCounts": {
+				"perfect": 720,
+				"great": 7,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.3"
+			],
+			"grade": "S",
+			"pp": 133.8911754848928,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-06T23:02:36.525198Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16888,
+			"mapId": 288,
+			"map": {
+				"id": 288,
+				"title": "刹那の誓い（feat. 由崎司 (CV: 鬼頭明里)） (TV Size)",
+				"artist": "Neko Hacker",
+				"titleRomanised": "Setsuna no Chikai (feat. Yuzaki Tsukasa (CV: Kito Akari)) (TV Size)",
+				"artistRomanised": null,
+				"difficultyName": "Amats' Insane",
+				"starRating": 4.240248429714178,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/288/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9943255,
+			"accuracy": 0.9952153110047847,
+			"maxCombo": 581,
+			"tierCounts": {
+				"perfect": 415,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.2"
+			],
+			"grade": "S",
+			"pp": 131.34410335546357,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-09T19:04:23.190427Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 15,
+				"total": 19
+			}
+		},
+		{
+			"id": 16316,
+			"mapId": 317,
+			"map": {
+				"id": 317,
+				"title": "夏恋花火",
+				"artist": "シャノ & 40mP",
+				"titleRomanised": "Natsukoi Hanabi",
+				"artistRomanised": "chano & 40mP",
+				"difficultyName": "Hard",
+				"starRating": 2.6163800902062935,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/317/thumbnail?v=11",
+				"ruleset": "line"
+			},
+			"score": 9903767,
+			"accuracy": 0.9900497512437811,
+			"maxCombo": 457,
+			"tierCounts": {
+				"perfect": 264,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.3"
+			],
+			"grade": "S",
+			"pp": 129.99183973881165,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:46:39.294471Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 31,
+				"total": 31
+			}
+		},
+		{
+			"id": 16282,
+			"mapId": 147,
+			"map": {
+				"id": 147,
+				"title": "Harumachi Clover",
+				"artist": "Hanasaka Yui (CV M.A.O)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Sarunto's Clover Master",
+				"starRating": 4.0273644820603325,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/147/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9834398,
+			"accuracy": 0.9835164835164835,
+			"maxCombo": 206,
+			"tierCounts": {
+				"perfect": 178,
+				"great": 2,
+				"good": 2,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.45"
+			],
+			"grade": "S",
+			"pp": 129.99922009757285,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T01:47:25.994503Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16326,
+			"mapId": 316,
+			"map": {
+				"id": 316,
+				"title": "夏恋花火",
+				"artist": "シャノ & 40mP",
+				"titleRomanised": "Natsukoi Hanabi",
+				"artistRomanised": "chano & 40mP",
+				"difficultyName": "Fireworks",
+				"starRating": 3.1377805100291494,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/316/thumbnail?v=11",
+				"ruleset": "line"
+			},
+			"score": 9866105,
+			"accuracy": 0.9886621315192744,
+			"maxCombo": 459,
+			"tierCounts": {
+				"perfect": 289,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.55"
+			],
+			"grade": "S",
+			"pp": 128.17605627640765,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T03:05:30.940649Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 35,
+				"total": 36
+			}
+		},
+		{
+			"id": 2032,
+			"mapId": 44,
+			"map": {
+				"id": 44,
+				"title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+				"artist": "Miley Cyrus",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Panzer's Extra",
+				"starRating": 4.772517452624405,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/44/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9985480,
+			"accuracy": 1,
+			"maxCombo": 235,
+			"tierCounts": {
+				"perfect": 234,
+				"great": 0,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 125.4121432033864,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-12T02:40:15.130103Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 15933,
+			"mapId": 258,
+			"map": {
+				"id": 258,
+				"title": "Inferno (TV Size)",
+				"artist": "Mrs. GREEN APPLE",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Sarunto's Insane",
+				"starRating": 4.572637822046159,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/258/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9905219,
+			"accuracy": 0.9925093632958801,
+			"maxCombo": 500,
+			"tierCounts": {
+				"perfect": 352,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 112.0986612509058,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-06T23:52:54.857764Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16183,
+			"mapId": 177,
+			"map": {
+				"id": 177,
+				"title": "雪は何色 | Yuki Wa Naniiro",
+				"artist": "Kotoha",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Love Is Pure White",
+				"starRating": 3.7223082775736143,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/177/thumbnail?v=22",
+				"ruleset": "line"
+			},
+			"score": 9965953,
+			"accuracy": 0.9969742813918305,
+			"maxCombo": 1151,
+			"tierCounts": {
+				"perfect": 658,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.1"
+			],
+			"grade": "S",
+			"pp": 109.15668382438415,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T22:39:09.025149Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 68,
+				"total": 68
+			}
+		},
+		{
+			"id": 4675,
+			"mapId": 58,
+			"map": {
+				"id": 58,
+				"title": "My dream girls (TV size)",
+				"artist": "NANCHERRY",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "La Verità",
+				"starRating": 4.106010894500074,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/58/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9902877,
+			"accuracy": 0.9933176100628931,
+			"maxCombo": 573,
+			"tierCounts": {
+				"perfect": 420,
+				"great": 3,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.2"
+			],
+			"grade": "S",
+			"pp": 106.66355463082975,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-16T05:53:22.712253Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 47,
+				"total": 47
+			}
+		},
+		{
+			"id": 16331,
+			"mapId": 206,
+			"map": {
+				"id": 206,
+				"title": "パスコード4854 (TV Size)",
+				"artist": "安田レイ",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 1.9793984784601255,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/206/thumbnail?v=5",
+				"ruleset": "line"
+			},
+			"score": 9749822,
+			"accuracy": 0.9764309764309764,
+			"maxCombo": 354,
+			"tierCounts": {
+				"perfect": 191,
+				"great": 7,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"HD",
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 106.78031878292951,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T03:10:50.75227Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 1,
+				"total": 1
+			}
+		},
+		{
+			"id": 16115,
+			"mapId": 305,
+			"map": {
+				"id": 305,
+				"title": "Gotoubun no Kimochi (TV Size)",
+				"artist": "Nakanoke no Itsutsugo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard!",
+				"starRating": 3.5326460943950875,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/305/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9829204,
+			"accuracy": 0.9817073170731707,
+			"maxCombo": 518,
+			"tierCounts": {
+				"perfect": 319,
+				"great": 9,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.3"
+			],
+			"grade": "S",
+			"pp": 102.73001037224181,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T20:53:20.327276Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 19,
+				"total": 22
+			}
+		},
+		{
+			"id": 11485,
+			"mapId": 162,
+			"map": {
+				"id": 162,
+				"title": "REGGAETON BUT IT HAS AMEN BREAKS",
+				"artist": "ulko",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "AMEN",
+				"starRating": 6.693471981928949,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/162/thumbnail?v=7",
+				"ruleset": "line"
+			},
+			"score": 9762114,
+			"accuracy": 0.9849838669645073,
+			"maxCombo": 2079,
+			"tierCounts": {
+				"perfect": 2627,
+				"great": 54,
+				"good": 4,
+				"miss": 1
+			},
+			"mods": [
+				"VR0.8"
+			],
+			"grade": "A",
+			"pp": 100.17941698857611,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T02:58:19.837498Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 79,
+				"total": 79
+			}
+		},
+		{
+			"id": 16339,
+			"mapId": 33,
+			"map": {
+				"id": 33,
+				"title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+				"artist": "Miley Cyrus",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 3.6003597647497663,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/33/thumbnail?v=6",
+				"ruleset": "line"
+			},
+			"score": 9695624,
+			"accuracy": 0.9782135076252724,
+			"maxCombo": 205,
+			"tierCounts": {
+				"perfect": 148,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 88.44079885047536,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T03:35:06.946353Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 866,
+			"mapId": 19,
+			"map": {
+				"id": 19,
+				"title": "0xff",
+				"artist": "hkmori",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "0x40",
+				"starRating": 3.342876754278693,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/19/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9417118,
+			"accuracy": 0.956081081081081,
+			"maxCombo": 215,
+			"tierCounts": {
+				"perfect": 139,
+				"great": 6,
+				"good": 3,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.4"
+			],
+			"grade": "S",
+			"pp": 77.50568931154845,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-08T20:52:39.857993Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16299,
+			"mapId": 199,
+			"map": {
+				"id": 199,
+				"title": "Melty Lover",
+				"artist": "seatrus",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Platinum",
+				"starRating": 6.466930695547719,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/199/thumbnail?v=6",
+				"ruleset": "line"
+			},
+			"score": 9677668,
+			"accuracy": 0.9687814702920443,
+			"maxCombo": 819,
+			"tierCounts": {
+				"perfect": 631,
+				"great": 31,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR0.7"
+			],
+			"grade": "S",
+			"pp": 76.75121540790964,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:21:50.516628Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 40,
+				"total": 43
+			}
+		},
+		{
+			"id": 11461,
+			"mapId": 105,
+			"map": {
+				"id": 105,
+				"title": "Juvenile",
+				"artist": "technoplanet",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Ataraxis",
+				"starRating": 6.46433911261908,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/105/thumbnail?v=20",
+				"ruleset": "line"
+			},
+			"score": 9816138,
+			"accuracy": 0.9948921679909194,
+			"maxCombo": 983,
+			"tierCounts": {
+				"perfect": 875,
+				"great": 4,
+				"good": 1,
+				"miss": 1
+			},
+			"mods": [
+				"EZ"
+			],
+			"grade": "A",
+			"pp": 74.65218423063712,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T01:27:03.15874Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 25,
+				"total": 26
+			}
+		},
+		{
+			"id": 16031,
+			"mapId": 70,
+			"map": {
+				"id": 70,
+				"title": "I Don't Know (Nightcore & Cut Ver.)",
+				"artist": "Erika",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Sarunto's Insane",
+				"starRating": 3.6303275024941875,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/70/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9672449,
+			"accuracy": 0.9703703703703703,
+			"maxCombo": 183,
+			"tierCounts": {
+				"perfect": 129,
+				"great": 6,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 74.81523500883212,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T18:29:51.113874Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 34,
+				"total": 37
+			}
+		},
+		{
+			"id": 11488,
+			"mapId": 191,
+			"map": {
+				"id": 191,
+				"title": "Yoru no Kodomo-tachi",
+				"artist": "Apollo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Extra",
+				"starRating": 3.3249910424524973,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/191/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9244384,
+			"accuracy": 0.9791666666666666,
+			"maxCombo": 204,
+			"tierCounts": {
+				"perfect": 155,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 75.33757409693908,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T03:03:50.712031Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16664,
+			"mapId": 249,
+			"map": {
+				"id": 249,
+				"title": "Desire Drive",
+				"artist": "R3 Music Box",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "INSANE",
+				"starRating": 4.250874579266231,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/249/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9853392,
+			"accuracy": 0.9857723577235772,
+			"maxCombo": 537,
+			"tierCounts": {
+				"perfect": 402,
+				"great": 5,
+				"good": 3,
+				"miss": 0
+			},
+			"mods": [],
+			"grade": "S",
+			"pp": 69.88903608668977,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T23:22:12.729355Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 15978,
+			"mapId": 30,
+			"map": {
+				"id": 30,
+				"title": "I Can't Wait feat. GUMI",
+				"artist": "d0tc0mmie",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "<3",
+				"starRating": 4.798224627349284,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/30/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9713345,
+			"accuracy": 0.998015873015873,
+			"maxCombo": 642,
+			"tierCounts": {
+				"perfect": 335,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR0.85"
+			],
+			"grade": "S",
+			"pp": 67.27292563118701,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T05:33:17.312235Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 142,
+				"total": 142
+			}
+		},
+		{
+			"id": 16245,
+			"mapId": 87,
+			"map": {
+				"id": 87,
+				"title": "DaiDaiDaiKirai",
+				"artist": "Amala",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "<3",
+				"starRating": 2.0176231589248816,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/87/thumbnail?v=7",
+				"ruleset": "line"
+			},
+			"score": 9848397,
+			"accuracy": 0.9879336349924586,
+			"maxCombo": 554,
+			"tierCounts": {
+				"perfect": 434,
+				"great": 8,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.4"
+			],
+			"grade": "S",
+			"pp": 66.14040344812845,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T00:39:48.198856Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 32,
+				"total": 32
+			}
+		},
+		{
+			"id": 11472,
+			"mapId": 51,
+			"map": {
+				"id": 51,
+				"title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+				"artist": "Miley Cyrus",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Elodie's Insane",
+				"starRating": 4.510379830814308,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/51/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9833794,
+			"accuracy": 0.9836065573770492,
+			"maxCombo": 367,
+			"tierCounts": {
+				"perfect": 238,
+				"great": 6,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [],
+			"grade": "S",
+			"pp": 65.37674564813102,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T02:28:15.792896Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 11069,
+			"mapId": 217,
+			"map": {
+				"id": 217,
+				"title": "雪は何色 | Yuki Wa Naniiro",
+				"artist": "Kotoha",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Amats' Insane",
+				"starRating": 3.1712147570208256,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/217/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9827265,
+			"accuracy": 0.9838110403397028,
+			"maxCombo": 1072,
+			"tierCounts": {
+				"perfect": 613,
+				"great": 14,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 64.87410828793999,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-26T02:00:54.418588Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 60,
+				"total": 60
+			}
+		},
+		{
+			"id": 15941,
+			"mapId": 277,
+			"map": {
+				"id": 277,
+				"title": "SilentNight",
+				"artist": "JEM777",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Insane",
+				"starRating": 3.534504911270862,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/277/thumbnail?v=5",
+				"ruleset": "line"
+			},
+			"score": 9882991,
+			"accuracy": 0.9888888888888889,
+			"maxCombo": 345,
+			"tierCounts": {
+				"perfect": 177,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.25"
+			],
+			"grade": "S",
+			"pp": 63.903423634335695,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T00:06:57.348756Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16307,
+			"mapId": 98,
+			"map": {
+				"id": 98,
+				"title": "My dream girls (TV size)",
+				"artist": "NANCHERRY",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Reaper's Weak Magical Power",
+				"starRating": 2.45355611598151,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/98/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9863904,
+			"accuracy": 0.9904420549581839,
+			"maxCombo": 433,
+			"tierCounts": {
+				"perfect": 275,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.3"
+			],
+			"grade": "S",
+			"pp": 62.65257483344143,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:36:44.49999Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 3,
+				"total": 3
+			}
+		},
+		{
+			"id": 16313,
+			"mapId": 318,
+			"map": {
+				"id": 318,
+				"title": "夏恋花火",
+				"artist": "シャノ & 40mP",
+				"titleRomanised": "Natsukoi Hanabi",
+				"artistRomanised": "chano & 40mP",
+				"difficultyName": "Easy",
+				"starRating": 1.8879547365655154,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/318/thumbnail?v=9",
+				"ruleset": "line"
+			},
+			"score": 9962743,
+			"accuracy": 0.9958333333333333,
+			"maxCombo": 386,
+			"tierCounts": {
+				"perfect": 159,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.5"
+			],
+			"grade": "S",
+			"pp": 49.59333122414504,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:42:08.125034Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 23,
+				"total": 23
+			}
+		},
+		{
+			"id": 16179,
+			"mapId": 26,
+			"map": {
+				"id": 26,
+				"title": "memory at angels landing",
+				"artist": "skymuted & Evin a'k",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 3.18859807705996,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/26/thumbnail?v=13",
+				"ruleset": "line"
+			},
+			"score": 9815907,
+			"accuracy": 0.9815455594002307,
+			"maxCombo": 700,
+			"tierCounts": {
+				"perfect": 281,
+				"great": 8,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.25"
+			],
+			"grade": "S",
+			"pp": 49.740901711456374,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T22:30:16.772275Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16337,
+			"mapId": 275,
+			"map": {
+				"id": 275,
+				"title": "SilentNight",
+				"artist": "JEM777",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 2.9707788920657934,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/275/thumbnail?v=6",
+				"ruleset": "line"
+			},
+			"score": 9682875,
+			"accuracy": 0.9642058165548099,
+			"maxCombo": 258,
+			"tierCounts": {
+				"perfect": 141,
+				"great": 8,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 47.491050935903175,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T03:31:51.051417Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16223,
+			"mapId": 8,
+			"map": {
+				"id": 8,
+				"title": "Inferno",
+				"artist": "9mm Parabellum Bullet",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "EASY",
+				"starRating": 1.7594362536427468,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/8/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9733081,
+			"accuracy": 0.9703703703703703,
+			"maxCombo": 345,
+			"tierCounts": {
+				"perfect": 86,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.9"
+			],
+			"grade": "S",
+			"pp": 46.220768761006774,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T00:01:45.139517Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 6441,
+			"mapId": 116,
+			"map": {
+				"id": 116,
+				"title": "Harumachi Clover",
+				"artist": "Hanasaka Yui (CV M.A.O)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Antuoniz's Hard",
+				"starRating": 3.8643723015662945,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/116/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9798084,
+			"accuracy": 0.9807692307692307,
+			"maxCombo": 136,
+			"tierCounts": {
+				"perfect": 101,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.3"
+			],
+			"grade": "S",
+			"pp": 42.83894094960904,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-18T09:14:26.43307Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16303,
+			"mapId": 94,
+			"map": {
+				"id": 94,
+				"title": "My dream girls (TV size)",
+				"artist": "NANCHERRY",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Antuoniz's Normal",
+				"starRating": 2.4283640633428454,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/94/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9826822,
+			"accuracy": 0.9828605200945626,
+			"maxCombo": 575,
+			"tierCounts": {
+				"perfect": 275,
+				"great": 6,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.1"
+			],
+			"grade": "S",
+			"pp": 39.16816169204122,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:31:21.038313Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 21,
+				"total": 21
+			}
+		},
+		{
+			"id": 16884,
+			"mapId": 295,
+			"map": {
+				"id": 295,
+				"title": "刹那の誓い（feat. 由崎司 (CV: 鬼頭明里)） (TV Size)",
+				"artist": "Neko Hacker",
+				"titleRomanised": "Setsuna no Chikai (feat. Yuzaki Tsukasa (CV: Kito Akari)) (TV Size)",
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 3.149456314623198,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/295/thumbnail?v=7",
+				"ruleset": "line"
+			},
+			"score": 9644164,
+			"accuracy": 0.9635854341736695,
+			"maxCombo": 554,
+			"tierCounts": {
+				"perfect": 225,
+				"great": 13,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.1"
+			],
+			"grade": "S",
+			"pp": 37.7388678340896,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-09T18:16:17.996344Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 16,
+				"total": 16
+			}
+		},
+		{
+			"id": 16290,
+			"mapId": 54,
+			"map": {
+				"id": 54,
+				"title": "I Don't Know (Nightcore & Cut Ver.)",
+				"artist": "Erika",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Elodie's Extra",
+				"starRating": 5.715323415444991,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/54/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 10000000,
+			"accuracy": 1,
+			"maxCombo": 375,
+			"tierCounts": {
+				"perfect": 287,
+				"great": 0,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR0.55"
+			],
+			"grade": "SS",
+			"pp": 37.37791468449199,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:03:17.34635Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 15976,
+			"mapId": 101,
+			"map": {
+				"id": 101,
+				"title": "25-ji no Jounetsu",
+				"artist": "25-ji, Nightcord de. x KAITO",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Silence",
+				"starRating": 2.4440617484732816,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/101/thumbnail?v=3",
+				"ruleset": "line"
+			},
+			"score": 9951145,
+			"accuracy": 0.9964285714285714,
+			"maxCombo": 547,
+			"tierCounts": {
+				"perfect": 418,
+				"great": 1,
+				"good": 1,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.05"
+			],
+			"grade": "S",
+			"pp": 37.443435757996824,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T05:21:40.407688Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 11489,
+			"mapId": 193,
+			"map": {
+				"id": 193,
+				"title": "Yoru no Kodomo-tachi",
+				"artist": "Apollo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Insane",
+				"starRating": 2.838982358501767,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/193/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9864638,
+			"accuracy": 0.9821029082774049,
+			"maxCombo": 226,
+			"tierCounts": {
+				"perfect": 145,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 37.373193110114265,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T03:06:05.435087Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 16186,
+			"mapId": 50,
+			"map": {
+				"id": 50,
+				"title": "I Don't Know (Nightcore & Cut Ver.)",
+				"artist": "Erika",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 2.9705757741771293,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/50/thumbnail?v=14",
+				"ruleset": "line"
+			},
+			"score": 9925375,
+			"accuracy": 0.9946236559139785,
+			"maxCombo": 207,
+			"tierCounts": {
+				"perfect": 123,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.3"
+			],
+			"grade": "S",
+			"pp": 35.87267044013711,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T22:45:11.725157Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 42,
+				"total": 44
+			}
+		},
+		{
+			"id": 16230,
+			"mapId": 18,
+			"map": {
+				"id": 18,
+				"title": "0xff",
+				"artist": "hkmori",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "0x10",
+				"starRating": 2.068151816119974,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/18/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9694085,
+			"accuracy": 0.9732142857142857,
+			"maxCombo": 158,
+			"tierCounts": {
+				"perfect": 108,
+				"great": 2,
+				"good": 2,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"HD",
+				"VR1.9"
+			],
+			"grade": "S",
+			"pp": 33.81356595022273,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T00:08:58.114134Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 13673,
+			"mapId": 240,
+			"map": {
+				"id": 240,
+				"title": "Floccinaucinihilipilification",
+				"artist": "Marmalade butcher",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Worthless",
+				"starRating": 7.713416033230727,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/240/thumbnail?v=5",
+				"ruleset": "line"
+			},
+			"score": 9016802,
+			"accuracy": 0.9593260356299635,
+			"maxCombo": 863,
+			"tierCounts": {
+				"perfect": 1460,
+				"great": 87,
+				"good": 5,
+				"miss": 1
+			},
+			"mods": [
+				"EZ"
+			],
+			"grade": "A",
+			"pp": 34.40285438379735,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-31T18:07:50.8061Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 2,
+				"total": 2
+			}
+		},
+		{
+			"id": 16273,
+			"mapId": 114,
+			"map": {
+				"id": 114,
+				"title": "Harumachi Clover",
+				"artist": "Hanasaka Yui (CV M.A.O)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Ayu's Advanced",
+				"starRating": 1.9087088880878285,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/114/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9740662,
+			"accuracy": 0.9781420765027322,
+			"maxCombo": 98,
+			"tierCounts": {
+				"perfect": 59,
+				"great": 2,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR2"
+			],
+			"grade": "S",
+			"pp": 31.762129107759613,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T01:20:49.453435Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 9,
+				"total": 10
+			}
+		},
+		{
+			"id": 16256,
+			"mapId": 250,
+			"map": {
+				"id": 250,
+				"title": "Desire Drive",
+				"artist": "R3 Music Box",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "NORMAL",
+				"starRating": 1.9969477711119326,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/250/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9962114,
+			"accuracy": 0.9951690821256038,
+			"maxCombo": 468,
+			"tierCounts": {
+				"perfect": 137,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 29.74960921972869,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T01:03:50.414843Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 70,
+				"total": 70
+			}
+		},
+		{
+			"id": 16297,
+			"mapId": 293,
+			"map": {
+				"id": 293,
+				"title": "Made In Love",
+				"artist": "Chroma",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 1.802695468843913,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/293/thumbnail?v=6",
+				"ruleset": "line"
+			},
+			"score": 9844751,
+			"accuracy": 0.9868421052631579,
+			"maxCombo": 500,
+			"tierCounts": {
+				"perfect": 149,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.55"
+			],
+			"grade": "S",
+			"pp": 26.709256172312582,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T02:18:21.299953Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 82,
+				"total": 83
+			}
+		},
+		{
+			"id": 16257,
+			"mapId": 251,
+			"map": {
+				"id": 251,
+				"title": "Desire Drive",
+				"artist": "R3 Music Box",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "River's Hard",
+				"starRating": 2.6362631574629423,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/251/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9837173,
+			"accuracy": 0.9848914069877243,
+			"maxCombo": 537,
+			"tierCounts": {
+				"perfect": 345,
+				"great": 8,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.15"
+			],
+			"grade": "S",
+			"pp": 25.660113587191834,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T01:06:01.177608Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 128,
+				"total": 129
+			}
+		},
+		{
+			"id": 16182,
+			"mapId": 63,
+			"map": {
+				"id": 63,
+				"title": "I Can't Wait feat. GUMI",
+				"artist": "d0tc0mmie",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 2.0919920776574066,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/63/thumbnail?v=2",
+				"ruleset": "line"
+			},
+			"score": 9721800,
+			"accuracy": 0.9811676082862524,
+			"maxCombo": 491,
+			"tierCounts": {
+				"perfect": 172,
+				"great": 5,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HD",
+				"VR1.6"
+			],
+			"grade": "S",
+			"pp": 25.850103209513694,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T22:33:15.931392Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 57,
+				"total": 57
+			}
+		},
+		{
+			"id": 15241,
+			"mapId": 233,
+			"map": {
+				"id": 233,
+				"title": "雪は何色 | Yuki Wa Naniiro",
+				"artist": "Kotoha",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Palettia's Snow Prism",
+				"starRating": 5.628349199724838,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/233/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9409228,
+			"accuracy": 0.9898937992463173,
+			"maxCombo": 1041,
+			"tierCounts": {
+				"perfect": 960,
+				"great": 9,
+				"good": 1,
+				"miss": 3
+			},
+			"mods": [
+				"EZ"
+			],
+			"grade": "A",
+			"pp": 25.23991808601033,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-04T21:32:24.586954Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 6,
+				"total": 6
+			}
+		},
+		{
+			"id": 15944,
+			"mapId": 210,
+			"map": {
+				"id": 210,
+				"title": "Balalaika (TV Size)",
+				"artist": "Tsukishima Kirari (CV: Kusumi Koharu)",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Antuoniz's Normal",
+				"starRating": 2.038471985901376,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/210/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9941449,
+			"accuracy": 0.9940740740740741,
+			"maxCombo": 437,
+			"tierCounts": {
+				"perfect": 223,
+				"great": 2,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.2"
+			],
+			"grade": "S",
+			"pp": 22.514853493319826,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T00:14:44.468695Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 143,
+				"total": 143
+			}
+		},
+		{
+			"id": 16882,
+			"mapId": 290,
+			"map": {
+				"id": 290,
+				"title": "刹那の誓い（feat. 由崎司 (CV: 鬼頭明里)） (TV Size)",
+				"artist": "Neko Hacker",
+				"titleRomanised": "Setsuna no Chikai (feat. Yuzaki Tsukasa (CV: Kito Akari)) (TV Size)",
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 2.1495436266400936,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/290/thumbnail?v=7",
+				"ruleset": "line"
+			},
+			"score": 9884048,
+			"accuracy": 0.9859154929577465,
+			"maxCombo": 431,
+			"tierCounts": {
+				"perfect": 139,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR2"
+			],
+			"grade": "S",
+			"pp": 23.313356243994114,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-09T18:10:00.699848Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 78,
+				"total": 78
+			}
+		},
+		{
+			"id": 16225,
+			"mapId": 253,
+			"map": {
+				"id": 253,
+				"title": "Inferno (TV Size)",
+				"artist": "Mrs. GREEN APPLE",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Easy",
+				"starRating": 1.5423516523670318,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/253/thumbnail?v=4",
+				"ruleset": "line"
+			},
+			"score": 9880658,
+			"accuracy": 0.9859154929577465,
+			"maxCombo": 312,
+			"tierCounts": {
+				"perfect": 139,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR1.7"
+			],
+			"grade": "S",
+			"pp": 22.84888186388919,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T00:03:19.904545Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 44,
+				"total": 44
+			}
+		},
+		{
+			"id": 8780,
+			"mapId": 76,
+			"map": {
+				"id": 76,
+				"title": "I Don't Know (Nightcore & Cut Ver.)",
+				"artist": "Erika",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 2.295940226073858,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/76/thumbnail?v=5",
+				"ruleset": "line"
+			},
+			"score": 9721361,
+			"accuracy": 0.9759036144578314,
+			"maxCombo": 181,
+			"tierCounts": {
+				"perfect": 80,
+				"great": 3,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"FG",
+				"MR"
+			],
+			"grade": "S",
+			"pp": 22.201676959731234,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-22T02:59:28.164702Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 32,
+				"total": 37
+			}
+		},
+		{
+			"id": 16155,
+			"mapId": 34,
+			"map": {
+				"id": 34,
+				"title": "The Best of Both Worlds (Nightcore & Cut Ver.)",
+				"artist": "Miley Cyrus",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Reaper's Easy",
+				"starRating": 1.9625806383522577,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/34/thumbnail?v=7",
+				"ruleset": "line"
+			},
+			"score": 9945300,
+			"accuracy": 1,
+			"maxCombo": 142,
+			"tierCounts": {
+				"perfect": 68,
+				"great": 0,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.7"
+			],
+			"grade": "S",
+			"pp": 21.31512403160184,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T22:00:07.63026Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 16,
+				"total": 16
+			}
+		},
+		{
+			"id": 16138,
+			"mapId": 304,
+			"map": {
+				"id": 304,
+				"title": "Gotoubun no Kimochi (TV Size)",
+				"artist": "Nakanoke no Itsutsugo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Easy!",
+				"starRating": 1.6461021607904192,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/304/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9835078,
+			"accuracy": 0.9830148619957537,
+			"maxCombo": 378,
+			"tierCounts": {
+				"perfect": 153,
+				"great": 4,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"HD",
+				"VR1.4"
+			],
+			"grade": "S",
+			"pp": 21.429843563074844,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T21:26:42.545447Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 39,
+				"total": 39
+			}
+		},
+		{
+			"id": 16335,
+			"mapId": 274,
+			"map": {
+				"id": 274,
+				"title": "SilentNight",
+				"artist": "JEM777",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 1.2591905042830278,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/274/thumbnail?v=9",
+				"ruleset": "line"
+			},
+			"score": 9949973,
+			"accuracy": 0.9938271604938271,
+			"maxCombo": 291,
+			"tierCounts": {
+				"perfect": 107,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR2"
+			],
+			"grade": "S",
+			"pp": 20.113966837614214,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T03:29:15.486937Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 40,
+				"total": 40
+			}
+		},
+		{
+			"id": 16253,
+			"mapId": 247,
+			"map": {
+				"id": 247,
+				"title": "Desire Drive",
+				"artist": "R3 Music Box",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "EASY",
+				"starRating": 1.0283006173818707,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/247/thumbnail?v=5",
+				"ruleset": "line"
+			},
+			"score": 10000000,
+			"accuracy": 1,
+			"maxCombo": 389,
+			"tierCounts": {
+				"perfect": 79,
+				"great": 0,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"VR2"
+			],
+			"grade": "SS",
+			"pp": 19.490357787736265,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T00:59:51.580885Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 50,
+				"total": 50
+			}
+		},
+		{
+			"id": 15943,
+			"mapId": 192,
+			"map": {
+				"id": 192,
+				"title": "Yoru no Kodomo-tachi",
+				"artist": "Apollo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Hard",
+				"starRating": 1.5545911617341985,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/192/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9946023,
+			"accuracy": 0.9925093632958801,
+			"maxCombo": 183,
+			"tierCounts": {
+				"perfect": 88,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 18.493401798247596,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T00:10:51.941787Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 59,
+				"total": 59
+			}
+		},
+		{
+			"id": 16336,
+			"mapId": 273,
+			"map": {
+				"id": 273,
+				"title": "SilentNight",
+				"artist": "JEM777",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Easy",
+				"starRating": 1.0860494042795796,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/273/thumbnail?v=10",
+				"ruleset": "line"
+			},
+			"score": 9888221,
+			"accuracy": 0.9880952380952381,
+			"maxCombo": 246,
+			"tierCounts": {
+				"perfect": 55,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"HR",
+				"HD",
+				"VR2"
+			],
+			"grade": "S",
+			"pp": 17.791808957929696,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-08T03:30:22.209814Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 71,
+				"total": 72
+			}
+		},
+		{
+			"id": 11492,
+			"mapId": 194,
+			"map": {
+				"id": 194,
+				"title": "Yoru no Kodomo-tachi",
+				"artist": "Apollo",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "Normal",
+				"starRating": 1.3668395111058556,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/194/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9926207,
+			"accuracy": 0.9901960784313726,
+			"maxCombo": 184,
+			"tierCounts": {
+				"perfect": 67,
+				"great": 1,
+				"good": 0,
+				"miss": 0
+			},
+			"mods": [
+				"VR1.75"
+			],
+			"grade": "S",
+			"pp": 16.231268701332393,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-08-27T03:08:12.595231Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 78,
+				"total": 78
+			}
+		},
+		{
+			"id": 15975,
+			"mapId": 40,
+			"map": {
+				"id": 40,
+				"title": "BOUNDARY::BREAK",
+				"artist": "Aiden Strozzi",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "High Tech Terror",
+				"starRating": 3.7825537893631496,
+				"status": "ranked",
+				"thumbnailUrl": "/maps/40/thumbnail?v=1",
+				"ruleset": "line"
+			},
+			"score": 9373258,
+			"accuracy": 0.9811529933481153,
+			"maxCombo": 722,
+			"tierCounts": {
+				"perfect": 878,
+				"great": 19,
+				"good": 4,
+				"miss": 1
+			},
+			"mods": [
+				"VR0.8"
+			],
+			"grade": "A",
+			"pp": 16.247128902955208,
+			"grantsPp": true,
+			"hasReplay": true,
+			"submittedAt": "2026-09-07T05:12:37.502561Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": {
+				"caught": 0,
+				"total": 0
+			}
+		},
+		{
+			"id": 12539,
+			"mapId": 99,
+			"map": {
+				"id": 99,
+				"title": "SUPERNOVA",
+				"artist": "Kyotsugyon",
+				"titleRomanised": null,
+				"artistRomanised": null,
+				"difficultyName": "FINAL/CHANCE",
+				"starRating": 14.401960681761702,
+				"status": "featured",
+				"thumbnailUrl": "/maps/99/thumbnail?v=8",
+				"ruleset": "line"
+			},
+			"score": 8801736,
+			"accuracy": 0.9537301021620337,
+			"maxCombo": 708,
+			"tierCounts": {
+				"perfect": 2630,
+				"great": 114,
+				"good": 49,
+				"miss": 13
+			},
+			"mods": [
+				"EZ",
+				"VR0.5"
+			],
+			"grade": "A",
+			"pp": 0.9824617625604681,
+			"grantsPp": false,
+			"hasReplay": false,
+			"submittedAt": "2026-08-29T08:06:57.161501Z",
+			"gameplayContext": "Solo",
+			"multiplayerMatchId": null,
+			"shards": null
+		}
+	]
+}
