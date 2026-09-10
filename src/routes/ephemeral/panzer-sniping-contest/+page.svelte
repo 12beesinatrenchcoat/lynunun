@@ -19,8 +19,11 @@
 	});
 </script>
 
-<div class="subtitle accent">// community-assisted regicide</div>
+<p class="subtitle accent">// community-assisted regicide</p>
 <h1>Panzer Sniping Contest #1</h1>
+<p class="subtitle">
+	last updated {data.date.toISOString().replaceAll(/T|Z/gv, " ").slice(0, 16)} (UTC)
+</p>
 
 <p>A challenge from Panzer: snipe as many of his #1 scores as possible. Good luck.</p>
 
@@ -36,6 +39,7 @@
 					</span>
 				</div>
 				<div class="control-grid" style:--accent={value[1]}>
+					<!-- eslint-disable-next-line @typescript-eslint/no-unused-vars -->
 					{#each Array.from({ length: control.get(username)?.[0] || 0 }) as _, i (username + i)}
 						<div class="control-block"></div>
 					{/each}

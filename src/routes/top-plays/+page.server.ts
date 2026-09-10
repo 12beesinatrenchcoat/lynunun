@@ -4,7 +4,7 @@ import { dev } from "$app/environment";
 
 const leaderboardLength = 50;
 
-export const load: PageServerLoad = async () => {
+export const load: PageServerLoad = async ({ setHeaders }) => {
 	// Be nice to ZZZ's servers, use testing
 	if (dev) {
 		const topPlays = await import("$lib/testing/topPlays.json", { with: { type: "json" } });
@@ -69,6 +69,10 @@ export const load: PageServerLoad = async () => {
 		lowest = plays.at(-1)!.pp ?? -2;
 		console.log(`Processed ${player.username}, lowest is now ${lowest}`);
 	}
+
+	setHeaders({
+		"Cache-Control": "max-age=7200, public"
+	});
 
 	return { topPlays: plays, date: new Date() };
 };

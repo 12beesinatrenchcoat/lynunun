@@ -77,8 +77,8 @@
 </p>
 
 <p>
-	This is automatically updated every day at approximately 00:05 UTC and 12:05 UTC. <small
-		>Assuming GitHub works.</small
+	This page is updated automatically anytime anyone visits it, with a minimum gap of 2 hours. <small
+		>Assuming I set the caching settings correctly..</small
 	><br />
 	Historical data is not shown, but is planned for the future. Eventually.
 </p>

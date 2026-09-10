@@ -59,7 +59,7 @@ type MapLeaderboardEntry = {
 
 const mapLeaderboards: { [mapId: number]: MapLeaderboardEntry[] } = {};
 
-export const load: PageServerLoad = async () => {
+export const load: PageServerLoad = async ({ setHeaders }) => {
 	const promises = Array.from(mapIds, async (mapId) =>
 		fetch(`https://api.zxz.moe/maps/${mapId}/leaderboard`)
 			.then(async (response) => response.json() as unknown)
@@ -69,6 +69,10 @@ export const load: PageServerLoad = async () => {
 			})
 	);
 
+	setHeaders({
+		"Cache-Control": "max-age=1800, public"
+	});
+
 	await Promise.all(promises);
-	return { mapData, mapLeaderboards };
+	return { mapData, mapLeaderboards, date: new Date() };
 };
