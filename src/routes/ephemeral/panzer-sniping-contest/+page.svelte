@@ -113,7 +113,7 @@
 	.control-block {
 		width: 1.5ch;
 		height: 1.5ch;
-		background: var(--accent);
+		background: var(--accent, #34e2de);
 	}
 
 	#map-list {
@@ -151,7 +151,7 @@
 			right: 0;
 			top: 0;
 			bottom: 0;
-			background: var(--accent);
+			background: var(--accent, #34e2de);
 			clip-path: polygon(
 				0 0,
 				100% 0,
@@ -201,7 +201,7 @@
 
 	.play-info {
 		width: 16ch;
-		background: color-mix(in srgb, var(--accent) 75%, transparent 50%);
+		background: color-mix(in srgb, var(--accent, #34e2de) 75%, transparent 50%);
 		margin: -0.5rem;
 		padding: 0.5rem 3ch 0.5rem 2ch;
 		backdrop-filter: blur(4px);
