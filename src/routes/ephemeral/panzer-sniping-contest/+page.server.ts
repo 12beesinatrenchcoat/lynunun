@@ -1,8 +1,9 @@
 /* eslint-disable @typescript-eslint/no-restricted-types -- Used in the API. */
 import type { PageServerLoad } from "./$types";
-import { firstPlaces as panzerScores } from "./2026-09-09-Panzer.json";
+import * as finalData from "./psc-final.json";
 
-const mapIds = panzerScores.map((a) => a.mapId);
+// Event has ended. Most of the script has been moved into /scripts/panzer-sniping-contest.ts
+
 const mapData: {
 	[mapId: number]: {
 		title: string;
@@ -15,21 +16,6 @@ const mapData: {
 		thumbnailUrl: string;
 	};
 } = {};
-
-for (const panzerScore of panzerScores) {
-	const { map } = panzerScore;
-
-	mapData[map.id] = {
-		title: map.title,
-		artist: map.artist,
-		titleRomanised: map.titleRomanised,
-		artistRomanised: map.artistRomanised,
-		difficultyName: map.difficultyName,
-		starRating: map.starRating,
-		status: map.status,
-		thumbnailUrl: map.thumbnailUrl
-	};
-}
 
 type MapLeaderboardEntry = {
 	rank: number;
@@ -57,22 +43,14 @@ type MapLeaderboardEntry = {
 	submittedAt: string;
 };
 
-const mapLeaderboards: { [mapId: number]: MapLeaderboardEntry[] } = {};
-
-export const load: PageServerLoad = async ({ fetch, setHeaders }) => {
-	const promises = Array.from(mapIds, async (mapId) =>
-		fetch(`https://api.zxz.moe/maps/${mapId}/leaderboard`)
-			.then(async (response) => response.json() as unknown)
-			.then((data) => {
-				const { top } = data as { top: MapLeaderboardEntry[] };
-				mapLeaderboards[mapId] = top.slice(0, 2);
-			})
-	);
-
+export const load: PageServerLoad = async ({ setHeaders }) => {
 	setHeaders({
-		"cache-control": "max-age=1800, s-maxage=1800, durable, public"
+		"cache-control": "max-age=86400, s-maxage=86400, durable, public"
 	});
 
-	await Promise.all(promises);
-	return { mapData, mapLeaderboards, date: new Date() };
+	return {
+		mapData: finalData.mapData,
+		mapLeaderboards: finalData.mapLeaderboards,
+		date: new Date(finalData.date)
+	};
 };

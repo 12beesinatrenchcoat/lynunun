@@ -4,6 +4,32 @@
 	position: relative;
 }
 
+.callout.note {
+	&::before {
+		content: "NOTE";
+		font-weight: bold;
+		display: block;
+		position: relative;
+
+		margin: -1rem -1rem 0.5em;
+		padding: 0rem 1rem;
+	}
+
+	&::after {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		z-index: -99;
+		opacity: 0.25;
+		height: 1.5em;
+		content: "";
+		background: color-mix(in srgb, transparent 50%, var(--blue) 50%);
+	}
+
+	border-color: var(--blue);
+}
+
 .callout.warning {
 	&::before {
 		content: "WARNING";

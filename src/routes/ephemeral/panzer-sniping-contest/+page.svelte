@@ -27,6 +27,12 @@
 
 <p>A challenge from Panzer: snipe as many of his #1 scores as possible. Good luck.</p>
 
+<p class="callout note">
+	The event has ended, and the data here is no longer being updated. It will remain for historical
+	purposes. <br />
+	Thank you for playing!
+</p>
+
 <section>
 	<h2>Control</h2>
 	<div id="control">
